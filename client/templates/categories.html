@@ -3,13 +3,16 @@
 <template name="cat_tree">
   {{#if categoriesVisible 'cat'}}
     <h2>Categories</h2>
-    {{#if categoriesExist}}
+    <!-- {{#if categoriesExist}} -->
     <ul id="cat_tree">
-        {{> cat_loop}}
+        {{#each categories}}
+          {{> category}}
+        {{/each}}
     </ul>
-    {{/if}}
+    <!-- {{/if}} -->
   {{/if}}
 </template>
+
 
 
 <template name="cat_loop">
@@ -45,6 +48,6 @@
     <input class="category_id"  id="cid_{{_id}}" type="hidden" value="{{_id}}" />
     <input class="category_parent"  id="cparent_{{parent}}" type="hidden" value="{{parent}}" />
 
-    <span class="text" title="{{title}}">{{title}}</span>
+    <span class="text" title="{{label_en_US}}">{{title}}</span>
   </li>
 </template>

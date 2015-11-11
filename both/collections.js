@@ -3,7 +3,7 @@ Categories = new Mongo.Collection("categories");
 Attributes = new Mongo.Collection("attributes");
 
 Uploads = new FS.Collection('uploads',{
-  stores:[new FS.Store.FileSystem('uploads',{path:'~/Documents/dev/js/baulist/imports'})]
+  stores:[new FS.Store.FileSystem('uploads',{path:'~/Documents/GitHub/baulist/public/imports'})]
 });
 Uploads.allow({
   insert:function(){

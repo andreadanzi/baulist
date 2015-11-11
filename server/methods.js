@@ -6,7 +6,7 @@ Meteor.methods({
    var path = Npm.require('path');
    var file = Uploads.find({_id:fileid});
    Meteor.setTimeout(function(){
-     var filepath = path.join(process.env.PWD, '/imports/uploads-' + fileid + '-' + filename);
+     var filepath = path.join(process.env.PWD, '/public/imports/uploads-' + fileid + '-' + filename);
      var headerFields = [];
      console.log("uploadFile filepath " + filepath);
      CSV().from.stream(
@@ -25,15 +25,15 @@ Meteor.methods({
             }
           }
   			}, function(error){
-  				console.log(error);
+  				console.log("on_record error:" + error);
   			}))
   			.on('error',function(err){
-  				console.log(err);
+  				console.log("createReadStream error:" + err);
   			})
   			.on('end',function(count){
           // processCategoryChildren(null);
           console.log("imported "+count+ " items");
-  			})
+  			});
    },1000);
    console.log("uploadFile completed");
   }

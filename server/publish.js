@@ -7,8 +7,9 @@ Meteor.publish('product_items', function(limit, txtSearch) {
 });
 //category_items
 Meteor.publish('category_items', function(txtSearch) {
-  console.log("category_items on server side");
-  return Categories.find({});
+  console.log("category_items on server side with txtSearch = "+txtSearch);
+  if( txtSearch ) return Categories.find({ $text: { $search: txtSearch } });
+  else return Categories.find({});
 });
 //attribute_items
 Meteor.publish('attribute_items', function(txtSearch) {

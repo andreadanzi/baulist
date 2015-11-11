@@ -11,13 +11,17 @@ Meteor.startup(function () {
                           title: "text"},
                         {name:"atributes_text_index_01"});
   Categories._ensureIndex({ parent: 1 });
+  Categories._ensureIndex({title: "text"},
+                        {name:"categories_text_index_01"});
+
   if (Categories.find().count() > 0) {
-    processCategoryChildren(null);
+    checkCategories();
   }
 });
 
 
 function processCategoryChildren(parent){
+  console.log("processCategoryChildren for " + parent);
   var local_children = [];
   var cur = Categories.find({parent:parent});
   cur.forEach(function(cat){
@@ -29,4 +33,12 @@ function processCategoryChildren(parent){
     });
   });
   return local_children;
+}
+
+function checkCategories(){
+  console.log("checkCategories");
+  var cur = Categories.find();
+  cur.forEach(function(cat){
+    console.log("cat._id = " + cat.title);
+  });
 }
