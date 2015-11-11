@@ -1,0 +1,30 @@
+
+<template name="loop">
+  {{#if productsVisible 'prod'}}
+  <ul id="product_loop">
+    {{#each products}}
+      {{> product}}
+    {{/each}}
+  </ul>
+  {{> moreItems}}
+  {{/if}}
+</template>
+
+<template name="product">
+  <li class="{{#if checked}}checked{{/if}}">
+    <button class="delete">&times;</button>
+
+    <input type="checkbox" checked="{{checked}}" class="toggle-checked" />
+    <input class="product_id" id="pid_{{_id}}" type="hidden" value="{{_id}}" />
+
+    <span class="text" title="{{description_en_US_ecommerce}}">{{name}} - {{producer}}</span>
+  </li>
+</template>
+
+<template name="moreItems">
+  {{#if moreResults}}
+  <div id="showMoreResults" style="margin-left: 25px;">
+    <span class="loading">Loading...</span>
+  </div>
+  {{/if}}
+</template>

@@ -1,0 +1,17 @@
+<head>
+  <title>baulist</title>
+</head>
+
+<body>
+  <div class="container">
+    <header>
+      <h1>Products</h1>{{> import}}
+      <form class="search-product">
+       {{> searchbox}}
+      </form>
+    </header>
+    {{> cat_tree}}
+    {{> attributes_loop}}
+    {{> loop}}
+  </div>
+</body>

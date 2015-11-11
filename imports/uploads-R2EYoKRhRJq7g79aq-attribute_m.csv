@@ -1,0 +1,87 @@
+type;code;label-de_DE;label-en_US;label-es_ES;label-fr_FR;label-it_IT;group;unique;useable_as_grid_filter;allowed_extensions;metric_family;default_metric_unit;reference_data_name;localizable;scopable
+pim_catalog_identifier;sku;SKU - DE;SKU;SKU - ES;SKU - FR;SKU - IT;marketing;1;1;;;;;0;0
+pim_catalog_text;name;Name - DE;Name;Name - ES;Name - FR;Name - IT;marketing;0;1;;;;;0;0
+pim_catalog_textarea;description;Description - DE;Description;Description - ES;Description - FR;Description - IT;marketing;0;1;;;;;1;1
+pim_catalog_metric;weight;Weight - DE;Weight;Weight - ES;Weight - FR;Weight - IT;technical;0;1;;Weight;KILOGRAM;;0;0
+pim_catalog_image;picture;Picture - DE;Picture;Picture - ES;Picture - FR;Picture - IT;media;0;1;jpg,jpeg,gif;;;;0;0
+pim_catalog_file;pdf_description;PDF description - DE;PDF description;PDF description - ES;PDF description - FR;PDF description - IT;media;0;1;pdf;;;;0;0
+pim_catalog_textarea;short_description;Kurze Beschreibung;Short description;Short description ES;Description courte;Descrizione breve;technical;0;1;;;;;1;1
+pim_catalog_text;producer;Manufacturer - DE;Manufacturer;Manufacturer - ES;Manufacturer - FR;Manufacturer - IT;marketing;0;1;;;;;0;0
+pim_catalog_simpleselect;bar_type;Bar Type - DE;Bar Type;Bar Type - ES;Bar Type - FR;Bar Type - IT;baulist_technical;0;1;;;;;1;0
+pim_catalog_text;thread_type;Thread Type - DE;Thread Type;Thread Type - ES;Thread Type - FR;Thread Type - IT;baulist_technical;0;0;;;;;1;0
+pim_catalog_number;ultimate_load;Ultimate Load (kN) - DE;Ultimate Load (kN);Ultimate Load (kN) - ES;Ultimate Load (kN) - FR;Ultimate Load (kN) - IT;baulist_technical;0;1;;;;;0;0
+pim_catalog_number;cross_section_area;Cross Section Area (mm2) - DE;Cross Section Area (mm2);Cross Section Area (mm2) - ES;Cross Section Area (mm2) - FR;Cross Section Area (mm2) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_text;external_code;External Code - DE;External Code;External Code - ES;External Code - FR;External Code - IT;marketing;0;1;;;;;0;0
+pim_catalog_number;outer_diameter;Outer diameter (mm) - DE;Outer diameter (mm);Outer diameter (mm) - ES;Outer diameter (mm) - FR;Outer diameter (mm) - IT;baulist_technical;0;1;;;;;0;0
+pim_catalog_number;inner_diameter;Inner diameter (mm) - DE;Inner diameter (mm);Inner diameter (mm) - ES;Inner diameter (mm) - FR;Inner diameter (mm) - IT;baulist_technical;0;1;;;;;0;0
+pim_catalog_number;unit_weight;Unit Weight (kg/m) - DE;Unit Weight (kg/m);Unit Weight (kg/m) - ES;Unit Weight (kg/m) - FR;Unit Weight (kg/m) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;yield_load;Yield Load (kN) - DE;Yield Load (kN);Yield Load (kN) - ES;Yield Load (kN) - FR;Yield Load (kN) - IT;baulist_technical;0;1;;;;;0;0
+pim_catalog_text;tensile_strength;Tensile Strenght - DE;Tensile Strenght;Tensile Strenght - ES;Tensile Strenght - FR;Tensile Strenght - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;yield_strength;Yield strength (N/mm2) - DE;Yield strength (N/mm2);Yield strength (N/mm2) - ES;Yield strength (N/mm2) - FR;Yield strength (N/mm2) - IT;baulist_technical;0;1;;;;;0;0
+pim_catalog_number;ultimate_strength;Ultimate strength (N/mm2) - DE;Ultimate strength (N/mm2);Ultimate strength (N/mm2) - ES;Ultimate strength (N/mm2) - FR;Ultimate strength (N/mm2) - IT;baulist_technical;0;1;;;;;0;0
+pim_catalog_simpleselect;diameter_option;Available Diameters (mm) - DE;Available Diameters (mm);Available Diameters (mm) - ES;Available Diameters (mm) - FR;Available Diameters (mm) - IT;baulist_technical;0;1;;;;;0;0
+pim_catalog_simpleselect;steel_grade_options;Available Steel Grades - DE;Available Steel Grades;Available Steel Grades - ES;Available Steel Grades - FR;Available Steel Grades - IT;baulist_technical;0;1;;;;;0;0
+pim_catalog_text;mesh_size;Mesh Size (mm) - DE;Mesh Size (mm);Mesh Size (mm) - ES;Mesh Size (mm) - FR;Mesh Size (mm) - IT;baulist_technical;0;1;;;;;0;0
+pim_catalog_text;mesh_tpe;Mesh Type - DE;Mesh Type;Mesh Type - ES;Mesh Type - FR;Mesh Type - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;wire_diameter;Wire Diameter (mm) - DE;Wire Diameter (mm);Wire Diameter (mm) - ES;Wire Diameter (mm) - FR;Wire Diameter (mm) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;strand_diameter;Strand Diameter (mm) - DE;Strand Diameter (mm);Strand Diameter (mm) - ES;Strand Diameter (mm) - FR;Strand Diameter (mm) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_text;coating;Coating - DE;Coating;Coating - ES;Coating - FR;Coating - IT;baulist_technical;0;1;;;;;0;0
+pim_catalog_number;min_mass_coating;Min. Mass Coating (g/m2) - DE;Min. Mass Coating (g/m2);Min. Mass Coating (g/m2) - ES;Min. Mass Coating (g/m2) - FR;Min. Mass Coating (g/m2) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;tensile_strenght_mesh;Tensile strength of mesh, longitudinally (kN/m) - DE;Tensile strength of mesh, longitudinally (kN/m);Tensile strength of mesh, longitudinally (kN/m) - ES;Tensile strength of mesh, longitudinally (kN/m) - FR;Tensile strength of mesh, longitudinally (kN/m) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;unit_weight_surface;Unit Weight (kg/m2) - DE;Unit Weight (kg/m2);Unit Weight (kg/m2) - ES;Unit Weight (kg/m2) - FR;Unit Weight (kg/m2) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_text;available_dimensions;Roll Sizing Options - DE;Roll Sizing Options;Roll Sizing Options - ES;Roll Sizing Options - FR;Roll Sizing Options - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_textarea;product_certification;Product Certification - DE;Product Certification;Product Certification - ES;Product Certification - FR;Product Certification - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_text;type_of_netting;Type of Netting - DE;Type of Netting;Type of Netting - ES;Type of Netting - FR;Type of Netting - IT;baulist_technical;0;0;;;;;1;0
+pim_catalog_text;material;Material - DE;Material;Material - ES;Material - FR;Material - IT;baulist_technical;0;1;;;;;1;0
+pim_catalog_text;pdf_title;PDF Title - DE;PDF Title;PDF Title - ES;PDF Title - FR;PDF Title - IT;media;0;0;;;;;1;0
+pim_catalog_textarea;process;Production Process - DE;Production Process;Production Process - ES;Production Process - FR;Production Process - IT;manufacturing;0;0;;;;;1;0
+pim_catalog_number;mesh_size_long;Mesh Size Longitudinal (mm) - DE;Mesh Size Longitudinal (mm);Mesh Size Longitudinal (mm) - ES;Mesh Size Longitudinal (mm) - FR;Mesh Size Longitudinal (mm) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;mesh_size_trasv;Mesh Size Traversal (mm) - DE;Mesh Size Traversal (mm);Mesh Size Traversal (mm) - ES;Mesh Size Traversal (mm) - FR;Mesh Size Traversal (mm) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;ultimate_load_long;Ultimate Load Longitudinal (kN) - DE;Ultimate Load Longitudinal (kN);Ultimate Load Longitudinal (kN) - ES;Ultimate Load Longitudinal (kN) - FR;Ultimate Load Longitudinal (kN) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;ultimate_load_trasv;Ultimate Load Traversal (kN) - DE;Ultimate Load Traversal (kN);Ultimate Load Traversal (kN) - ES;Ultimate Load Traversal (kN) - FR;Ultimate Load Traversal (kN) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;elongation_yeld_log_perc;Elongation Longitudinal (%) - DE;Elongation Longitudinal (%);Elongation Longitudinal (%) - ES;Elongation Longitudinal (%) - FR;Elongation Longitudinal (%) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;elongation_yeld_trav_perc;Elongation Traversal (%) - DE;Elongation Traversal (%);Elongation Traversal (%) - ES;Elongation Traversal (%) - FR;Elongation Traversal (%) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_textarea;geogrid_type;Geogrid type - DE;Geogrid type;Geogrid type - ES;Geogrid type - FR;Geogrid type - IT;baulist_technical;0;0;;;;;1;0
+pim_catalog_file;tech_drawing;Technical Drawing - DE;Technical Drawing;Technical Drawing - ES;Technical Drawing - FR;Technical Drawing - IT;media;0;0;;;;;1;0
+pim_catalog_text;ce_number;CE Number - DE;CE Number;CE Number - ES;CE Number - FR;CE Number - IT;baulist_technical;0;1;;;;;0;0
+pim_catalog_text;base_plate_type;Type of Base Plate - DE;Type of Base Plate;Type of Base Plate - ES;Type of Base Plate - FR;Type of Base Plate - IT;baulist_technical;0;1;;;;;1;0
+pim_catalog_number;energy_class;Class of Energy - DE;Class of Energy;Class of Energy - ES;Class of Energy - FR;Class of Energy - IT;baulist_technical;0;1;;;;;0;0
+pim_catalog_number;mel_energy;MEL Maximum Energy Level (KJ) - DE;MEL Maximum Energy Level (KJ);MEL Maximum Energy Level (KJ) - ES;MEL Maximum Energy Level (KJ) - FR;MEL Maximum Energy Level (KJ) - IT;baulist_technical;0;1;;;;;0;0
+pim_catalog_number;sel_energy;SEL Service Energy Level (kJ) - DE;SEL Service Energy Level (kJ);SEL Service Energy Level (kJ) - ES;SEL Service Energy Level (kJ) - FR;SEL Service Energy Level (kJ) - IT;baulist_technical;0;1;;;;;0;0
+pim_catalog_number;nominal_height;Nominal Height (m) - DE;Nominal Height (m);Nominal Height (m) - ES;Nominal Height (m) - FR;Nominal Height (m) - IT;baulist_technical;0;1;;;;;0;0
+pim_catalog_text;approved_heights;Approved Heights (m) - DE;Approved Heights (m);Approved Heights (m) - ES;Approved Heights (m) - FR;Approved Heights (m) - IT;baulist_technical;0;1;;;;;0;0
+pim_catalog_number;residual_height;Residual Height (m) - DE;Residual Height (m);Residual Height (m) - ES;Residual Height (m) - FR;Residual Height (m) - IT;baulist_technical;0;1;;;;;0;0
+pim_catalog_text;category_res_height;Category - DE;Category;Category - ES;Category - FR;Category - IT;baulist_technical;0;1;;;;;0;0
+pim_catalog_number;max_elongation;Maximum Elongation (m) - DE;Maximum Elongation (m);Maximum Elongation (m) - ES;Maximum Elongation (m) - FR;Maximum Elongation (m) - IT;baulist_technical;0;1;;;;;0;0
+pim_catalog_text;post_type;Post Type - DE;Post Type;Post Type - ES;Post Type - FR;Post Type - IT;baulist_technical;0;1;;;;;0;0
+pim_catalog_text;primary_net_type;Primary Net Type - DE;Primary Net Type;Primary Net Type - ES;Primary Net Type - FR;Primary Net Type - IT;baulist_technical;0;0;;;;;1;0
+pim_catalog_number;max_beraring_rope_diameter;Bearing Rope Diameter (mm) - DE;Bearing Rope Diameter (mm);Bearing Rope Diameter (mm) - ES;Bearing Rope Diameter (mm) - FR;Bearing Rope Diameter (mm) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_text;type_of_system;Type of System - DE;Type of System;Type of System - ES;Type of System - FR;Type of System - IT;baulist_technical;0;0;;;;;1;0
+pim_catalog_number;dk_snow_height;DK (m) - DE;DK (m);DK (m) - ES;DK (m) - FR;DK (m) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;n_sliding_factor;N Sliding Factor - DE;N Sliding Factor;N Sliding Factor - ES;N Sliding Factor - FR;N Sliding Factor - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;altitude_factor;Fc Altitude Factor - DE;Fc Altitude Factor;Fc Altitude Factor - ES;Fc Altitude Factor - FR;Fc Altitude Factor - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;distance_between_posts;Distance Between Posts (m) - DE;Distance Between Posts (m);Distance Between Posts (m) - ES;Distance Between Posts (m) - FR;Distance Between Posts (m) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;slope_inclination;Slope Inclination (°) - DE;Slope Inclination (°);Slope Inclination (°) - ES;Slope Inclination (°) - FR;Slope Inclination (°) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;border_wire_diameter;Border Wire Diameter (mm) - DE;Border Wire Diameter (mm);Border Wire Diameter (mm) - ES;Border Wire Diameter (mm) - FR;Border Wire Diameter (mm) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;length;Length (m) - DE;Length (m);Length (m) - ES;Length (m) - FR;Length (m) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;width;Width (m) - DE;Width (m);Width (m) - ES;Width (m) - FR;Width (m) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;height;Height (m) - DE;Height (m);Height (m) - ES;Height (m) - FR;Height (m) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;thickness;Thickness (mm) - DE;Thickness (mm);Thickness (mm) - ES;Thickness (mm) - FR;Thickness (mm) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;ultimate_elongation_long;Longitudinal Max. Elongation (%) - DE;Longitudinal Max. Elongation (%);Longitudinal Max. Elongation (%) - ES;Longitudinal Max. Elongation (%) - FR;Longitudinal Max. Elongation (%) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;ultimate_elongation_trav;Traversal Max. Elongation (%) - DE;Traversal Max. Elongation (%);Traversal Max. Elongation (%) - ES;Traversal Max. Elongation (%) - FR;Traversal Max. Elongation (%) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;cbr_puncture_resistance;Static puncture resistance (kN) - DE;Static puncture resistance (kN);Static puncture resistance (kN) - ES;Static puncture resistance (kN) - FR;Static puncture resistance (kN) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;junction_strength_n;Junction Strength (N) - DE;Junction Strength (N);Junction Strength (N) - ES;Junction Strength (N) - FR;Junction Strength (N) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;uv_resistance;UV Resistance (kk) - DE;UV Resistance (kk);UV Resistance (kk) - ES;UV Resistance (kk) - FR;UV Resistance (kk) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_text;gas_permeability;Gas Permeability (mm3/sec) - DE;Gas Permeability (mm3/sec);Gas Permeability (mm3/sec) - ES;Gas Permeability (mm3/sec) - FR;Gas Permeability (mm3/sec) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_text;permeability_to_liquids;Permeability to liquids (ml/sec) - DE;Permeability to liquids (ml/sec);Permeability to liquids (ml/sec) - ES;Permeability to liquids (ml/sec) - FR;Permeability to liquids (ml/sec) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;porometry;Porometry (nm/mm2) - DE;Porometry (nm/mm2);Porometry (nm/mm2) - ES;Porometry (nm/mm2) - FR;Porometry (nm/mm2) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;vertical_permeability;Vertical Permeability (ml/sec) - DE;Vertical Permeability (ml/sec);Vertical Permeability (ml/sec) - ES;Vertical Permeability (ml/sec) - FR;Vertical Permeability (ml/sec) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;bars_no_per_base_plate;Anchors No per Base Plate (No) - DE;Anchors No per Base Plate (No);Anchors No per Base Plate (No) - ES;Anchors No per Base Plate (No) - FR;Anchors No per Base Plate (No) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;retaining_rope_no_per_posts;Retaining Ropes No / Module (No) - DE;Retaining Ropes No / Module (No);Retaining Ropes No / Module (No) - ES;Retaining Ropes No / Module (No) - FR;Retaining Ropes No / Module (No) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;lateral_anchors_no;Lateral Anchors No / Side (No) - DE;Lateral Anchors No / Side (No);Lateral Anchors No / Side (No) - ES;Lateral Anchors No / Side (No) - FR;Lateral Anchors No / Side (No) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;max_bending_moment_plate;Maximum bending moment on base plate - DE;Maximum bending moment on base plate;Maximum bending moment on base plate - ES;Maximum bending moment on base plate - FR;Maximum bending moment on base plate - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;max_kn_comp_plate;Maximum normal force on base plate (kN) - DE;Maximum normal force on base plate (kN);Maximum normal force on base plate (kN) - ES;Maximum normal force on base plate (kN) - FR;Maximum normal force on base plate (kN) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;max_kn_shear_plate;Maximum shear force on base plate (kN) - DE;Maximum shear force on base plate (kN);Maximum shear force on base plate (kN) - ES;Maximum shear force on base plate (kN) - FR;Maximum shear force on base plate (kN) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;max_kn_upslope;Maximum force on upslope  anchors (kN) - DE;Maximum force on upslope  anchors (kN);Maximum force on upslope  anchors (kN) - ES;Maximum force on upslope  anchors (kN) - FR;Maximum force on upslope  anchors (kN) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_number;max_kn_lateral;Maximum force on lateral anchors (kN) - DE;Maximum force on lateral anchors (kN);Maximum force on lateral anchors (kN) - ES;Maximum force on lateral anchors (kN) - FR;Maximum force on lateral anchors (kN) - IT;baulist_technical;0;0;;;;;0;0
+pim_catalog_text;certification_number;Certification Number EN - DE;Certification Number EN;Certification Number EN - ES;Certification Number EN - FR;Certification Number EN - IT;baulist_technical;0;0;;;;;0;0

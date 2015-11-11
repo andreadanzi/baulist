@@ -1,0 +1,50 @@
+
+
+<template name="cat_tree">
+  {{#if categoriesVisible 'cat'}}
+    <h2>Categories</h2>
+    {{#if categoriesExist}}
+    <ul id="cat_tree">
+        {{> cat_loop}}
+    </ul>
+    {{/if}}
+  {{/if}}
+</template>
+
+
+<template name="cat_loop">
+  {{#each categories}}
+    <li class="{{#if checked}}checked{{/if}}"><span class="catOpen">[<b>{{#if isOpen}}-{{else}}+{{/if}}</b>]</span>
+      <a class="internal-link" data-link="read" data-name="{{_id}}"
+         href="/read/{{_id}}">{{title}}</a>
+         {{#if isOpen}}
+             {{#if isReady}}
+                 {{#if hasChildren}}
+                     <ul>
+                         {{> cat_loop}}
+                     </ul>
+                 {{else}}
+                     <br />No subcategories
+                 {{/if}}
+             {{else}}
+                 <span class="loading"></span>
+             {{/if}}
+         {{/if}}
+    </li>
+  {{/each}}
+</template>
+
+
+
+
+<template name="category">
+  <li class="{{#if checked}}checked{{/if}}">
+    <button class="delete">&times;</button>
+
+    <input type="checkbox" checked="{{checked}}" class="toggle-checked" />
+    <input class="category_id"  id="cid_{{_id}}" type="hidden" value="{{_id}}" />
+    <input class="category_parent"  id="cparent_{{parent}}" type="hidden" value="{{parent}}" />
+
+    <span class="text" title="{{title}}">{{title}}</span>
+  </li>
+</template>

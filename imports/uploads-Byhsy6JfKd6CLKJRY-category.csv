@@ -1,0 +1,390 @@
+code;parent;label-de_DE;label-en_US;label-es_ES;label-fr_FR;label-it_IT
+sales;;"Katalog Umsatz";"Sales catalog";;"Catalogue des ventes";
+brands;sales;Marken;Brands;;Marques;
+3go;brands;3GO;3GO;;3GO;
+3m;brands;3M;3M;;3M;
+a4tech;brands;A4Tech;A4Tech;;A4Tech;
+aoc;brands;AOC;AOC;;AOC;
+asus;brands;ASUS;ASUS;;ASUS;
+acer;brands;Acer;Acer;;Acer;
+adapt;brands;Adapt;Adapt;;Adapt;
+approx;brands;Approx;Approx;;Approx;
+avision;brands;Avision;Avision;;Avision;
+belkin;brands;Belkin;Belkin;;Belkin;
+brother;brands;Brother;Brother;;Brother;
+canon;brands;Canon;Canon;;Canon;
+cisco;brands;Cisco;Cisco;;Cisco;
+conceptronic;brands;Conceptronic;Conceptronic;;Conceptronic;
+d_link;brands;D-Link;D-Link;;D-Link;
+dell;brands;DELL;DELL;;DELL;
+dymo;brands;DYMO;DYMO;;DYMO;
+devolo;brands;Devolo;Devolo;;Devolo;
+dicota;brands;Dicota;Dicota;;Dicota;
+eminent;brands;Eminent;Eminent;;Eminent;
+emtec;brands;Emtec;Emtec;;Emtec;
+ewent;brands;Ewent;Ewent;;Ewent;
+fujifilm;brands;Fujifilm;Fujifilm;;Fujifilm;
+fujitsu;brands;Fujitsu;Fujitsu;;Fujitsu;
+g_cube;brands;G-Cube;G-Cube;;G-Cube;
+gear4;brands;GEAR4;GEAR4;;GEAR4;
+gigabyte;brands;Gigabyte;Gigabyte;;Gigabyte;
+hp;brands;HP;HP;;HP;
+hamlet;brands;Hamlet;Hamlet;;Hamlet;
+hiper;brands;Hiper;Hiper;;Hiper;
+ibm;brands;IBM;IBM;;IBM;
+icidu;brands;ICIDU;ICIDU;;ICIDU;
+ion;brands;ION;ION;;ION;
+ion_audio;brands;"ION Audio";"ION Audio";;"ION Audio";
+kensington;brands;Kensington;Kensington;;Kensington;
+kodak;brands;Kodak;Kodak;;Kodak;
+kyocera;brands;Kyocera;Kyocera;;Kyocera;
+lg;brands;LG;LG;;LG;
+lacie;brands;LaCie;LaCie;;LaCie;
+lenco;brands;Lenco;Lenco;;Lenco;
+lenovo;brands;Lenovo;Lenovo;;Lenovo;
+levelone;brands;LevelOne;LevelOne;;LevelOne;
+lexmark;brands;Lexmark;Lexmark;;Lexmark;
+logitech;brands;Logitech;Logitech;;Logitech;
+macally;brands;Macally;Macally;;Macally;
+magnavox;brands;Magnavox;Magnavox;;Magnavox;
+medion;brands;Medion;Medion;;Medion;
+microsoft;brands;Microsoft;Microsoft;;Microsoft;
+nec;brands;NEC;NEC;;NEC;
+ngs;brands;NGS;NGS;;NGS;
+noxon;brands;NOXON;NOXON;;NOXON;
+oki;brands;OKI;OKI;;OKI;
+ovislink;brands;OvisLink;OvisLink;;OvisLink;
+philips;brands;Philips;Philips;;Philips;
+razer;brands;Razer;Razer;;Razer;
+ricatech;brands;Ricatech;Ricatech;;Ricatech;
+ricoh;brands;Ricoh;Ricoh;;Ricoh;
+spcinternet;brands;SPCinternet;SPCinternet;;SPCinternet;
+salora;brands;Salora;Salora;;Salora;
+samsung;brands;Samsung;Samsung;;Samsung;
+sandberg;brands;Sandberg;Sandberg;;Sandberg;
+sitecom;brands;Sitecom;Sitecom;;Sitecom;
+sony;brands;Sony;Sony;;Sony;
+speed_link;brands;Speed-Link;Speed-Link;;Speed-Link;
+spire;brands;Spire;Spire;;Spire;
+sweex;brands;Sweex;Sweex;;Sweex;
+tdk;brands;TDK;TDK;;TDK;
+tacens;brands;Tacens;Tacens;;Tacens;
+targus;brands;Targus;Targus;;Targus;
+techly;brands;Techly;Techly;;Techly;
+teufel;brands;Teufel;Teufel;;Teufel;
+thrustmaster;brands;Thrustmaster;Thrustmaster;;Thrustmaster;
+toshiba;brands;Toshiba;Toshiba;;Toshiba;
+trust;brands;Trust;Trust;;Trust;
+v7;brands;V7;V7;;V7;
+value;brands;Value;Value;;Value;
+verbatim;brands;Verbatim;Verbatim;;Verbatim;
+viewsonic;brands;Viewsonic;Viewsonic;;Viewsonic;
+vogel_s;brands;Vogel's;Vogel's;;Vogel's;
+woxter;brands;Woxter;Woxter;;Woxter;
+xerox;brands;Xerox;Xerox;;Xerox;
+xtrememac;brands;XtremeMac;XtremeMac;;XtremeMac;
+yarvik;brands;Yarvik;Yarvik;;Yarvik;
+iiyama;brands;iiyama;iiyama;;iiyama;
+takems;brands;takeMS;takeMS;;takeMS;
+home_appliances;sales;Haushaltsgeräte;"Home appliances";;"Appareils ménagers";
+tvs_projectors_sales;home_appliances;"TVs und projectoren";"TVs and projectors";;"Téléviseurs et projecteurs";
+cameras_sales;home_appliances;Cameras;Cameras;;Caméras;
+audio_video_sales;home_appliances;"Audio und Video";"Audio and Video";;"Audio et Video";
+print_scan_sales;home_appliances;"Drucken und Scannen";"Print and scan";;"Imprimantes et scanners";
+digital_engineering;;"Digital Engineering DE";"Digital Engineering";"ES Digital Engineering";"Digital Engineering FR";"Digital Engineering IT"
+construction;digital_engineering;"Construction DE";"Construction EN";"Construction ES";"Construction FR";Costruzioni
+Geotechnics;construction;"Geotechnics DE";"Geotechnics EN";"Geotechnics ES";"Geotechnics FR";Geotecnica
+Anchors;Geotechnics;"Anchors DE";"Anchors EN";"Anchors ES";"Anchors FR";"Ancoraggi IT"
+thread_bars;Anchors;"Thread Bars DE";"Thread Bars EN";"Thread Bars ES";"Thread Bars FR";"Bare piene a filettatura continua"
+hollow_bars;Anchors;"Hollow Bars DE";"Hollow Bars EN";"Hollow Bars ES";"Hollow Bars FR";"Barre cave"
+geosynthetics;Geotechnics;"Geosynthetics DE";"Geosynthetics EN";"Geosynthetics ES";"Geosynthetics FR";"Geosynthetics IT"
+geotextiles;geosynthetics;"Geotextiles DE";"Geotextiles EN";"Geotextiles ES";"Geotextiles FR";Geotessili
+geocomposites;geosynthetics;"Geocomposites DE";"Geocomposites EN";"Geocomposites ES";"Geocomposites FR";"Geocomposites IT"
+geogrids;geosynthetics;"Geogrids DE";"Geogrids EN";"Geogrids ES";"Geogrids FR";"Geogrids IT"
+geomembranes;geosynthetics;"Geomembranes DE";"Geomembranes EN";"Geomembranes ES";"Geomembranes FR";"Geomembranes IT"
+netting;Geotechnics;"Netting DE";"Netting EN";"Netting ES";"Netting FR";Reti
+hex_mesh;netting;"Hex Mesh DE";"Hex Mesh EN";"Hex Mesh ES";"Hex Mesh FR";"Doppia Torsione"
+chain_link_mesh;netting;"Chain Link Mesh DE";"Chain Link Mesh EN";"Chain Link Mesh ES";"Chain Link Mesh FR";"Chain Link Mesh IT"
+wire_rope_panels;netting;"Wire Rope Panels DE";"Wire Rope Panels EN";"Wire Rope Panels ES";"Wire Rope Panels FR";"Pannelli in fune"
+protection_systems;Geotechnics;"Protection Systems DE";"Protection Systems DE";"Protection Systems ES";"Protection Systems FR";"Protection Systems IT"
+rockfall_fences;protection_systems;"Rockfall Fences DE";"Rockfall Fences EN";"Rockfall Fences ES";"Rockfall Fences FR";"Rockfall Fences IT"
+snow_fences;protection_systems;"Snow Fences DE";"Snow Fences EN";"Snow Fences ES";"Snow Fences FR";"Snow Fences IT"
+gabions;Geotechnics;"Gabions DE";"Gabions EN";"Gabions ES";"Gabions FR";"Gabions IT"
+mechanical;digital_engineering;"Mechanical DE";Mechanical;"Mechanical ES";"Mechanical FR";Meccanica
+Applications;;"Applications DE";"Applications EN";"Applications ES";"Applications FR";"Applications IT"
+rockfall_protection;Applications;"Rockfall Protection DE";"Rockfall Protection EN";"Rockfall Protection ES";"Rockfall Protection FR";"Rockfall Protection IT"
+slope_stabilization;Applications;"Slope stabilization DE";"Slope stabilization EN";"Slope stabilization ES";"Slope stabilization FR";"Slope stabilization IT"
+avalanche_mitigation;Applications;"Avalanche Mitigation DE";"Avalanche Mitigation US";"Avalanche Mitigation ES";"Avalanche Mitigation FR";"Avalanche Mitigation IT"
+uniclass2;;"Uniclass2 classification scheme DE";"Uniclass2 classification scheme";"Uniclass2 classification scheme ES";"Uniclass2 classification scheme FR";"Uniclass2 classification scheme IT"
+ac;uniclass2;"Activities DE";Activities;"Activities ES";"Activities FR";"Activities IT"
+ac_20;ac;"Administrative, Commercial And Protective Service Activities DE";"Administrative, Commercial And Protective Service Activities";"Administrative, Commercial And Protective Service Activities ES";"Administrative, Commercial And Protective Service Activities FR";"Administrative, Commercial And Protective Service Activities IT"
+ac_25;ac;"Cultural, Educational, Scientific And Information Activities DE";"Cultural, Educational, Scientific And Information Activities";"Cultural, Educational, Scientific And Information Activities ES";"Cultural, Educational, Scientific And Information Activities FR";"Cultural, Educational, Scientific And Information Activities IT"
+ac_30;ac;"Industrial Activities DE";"Industrial Activities";"Industrial Activities ES";"Industrial Activities FR";"Industrial Activities IT"
+ac_35;ac;"Medical, Health, Welfare And Sanitary Activities DE";"Medical, Health, Welfare And Sanitary Activities";"Medical, Health, Welfare And Sanitary Activities ES";"Medical, Health, Welfare And Sanitary Activities FR";"Medical, Health, Welfare And Sanitary Activities IT"
+ac_40;ac;"Recreational Activities DE";"Recreational Activities";"Recreational Activities ES";"Recreational Activities FR";"Recreational Activities IT"
+ac_45;ac;"Residential Activities DE";"Residential Activities";"Residential Activities ES";"Residential Activities FR";"Residential Activities IT"
+ac_50;ac;"Disposal Activities DE";"Disposal Activities";"Disposal Activities ES";"Disposal Activities FR";"Disposal Activities IT"
+ac_55;ac;"Piped Supply Activities DE";"Piped Supply Activities";"Piped Supply Activities ES";"Piped Supply Activities FR";"Piped Supply Activities IT"
+ac_60;ac;"Heating, Cooling And Refrigeration Activities DE";"Heating, Cooling And Refrigeration Activities";"Heating, Cooling And Refrigeration Activities ES";"Heating, Cooling And Refrigeration Activities FR";"Heating, Cooling And Refrigeration Activities IT"
+ac_65;ac;"Ventilation And Air Conditioning Activities DE";"Ventilation And Air Conditioning Activities";"Ventilation And Air Conditioning Activities ES";"Ventilation And Air Conditioning Activities FR";"Ventilation And Air Conditioning Activities IT"
+ac_70;ac;"Electrical Activities DE";"Electrical Activities";"Electrical Activities ES";"Electrical Activities FR";"Electrical Activities IT"
+ac_75;ac;"Communications, Security, Safety And Protection Activities DE";"Communications, Security, Safety And Protection Activities";"Communications, Security, Safety And Protection Activities ES";"Communications, Security, Safety And Protection Activities FR";"Communications, Security, Safety And Protection Activities IT"
+ac_80;ac;"Rail Activities DE";"Rail Activities";"Rail Activities ES";"Rail Activities FR";"Rail Activities IT"
+ac_81;ac;"Road Activities DE";"Road Activities";"Road Activities ES";"Road Activities FR";"Road Activities IT"
+ac_82;ac;"Marine And Waterway Activities DE";"Marine And Waterway Activities";"Marine And Waterway Activities ES";"Marine And Waterway Activities FR";"Marine And Waterway Activities IT"
+ac_83;ac;"Cable Transport Activities DE";"Cable Transport Activities";"Cable Transport Activities ES";"Cable Transport Activities FR";"Cable Transport Activities IT"
+ac_84;ac;"Aerospace Activities DE";"Aerospace Activities";"Aerospace Activities ES";"Aerospace Activities FR";"Aerospace Activities IT"
+ac_85;ac;"Process Engineering Activities DE";"Process Engineering Activities";"Process Engineering Activities ES";"Process Engineering Activities FR";"Process Engineering Activities IT"
+ac_90;ac;"General Activities DE";"General Activities";"General Activities ES";"General Activities FR";"General Activities IT"
+ac_95;ac;"Temporary Activities DE";"Temporary Activities";"Temporary Activities ES";"Temporary Activities FR";"Temporary Activities IT"
+ee;uniclass2;"Elements DE";Elements;"Elements ES";"Elements FR";"Elements IT"
+ee_15;ee;"Preparatory Elements DE";"Preparatory Elements";"Preparatory Elements ES";"Preparatory Elements FR";"Preparatory Elements IT"
+ee_20;ee;"Whole-Entity Structural Elements DE";"Whole-Entity Structural Elements";"Whole-Entity Structural Elements ES";"Whole-Entity Structural Elements FR";"Whole-Entity Structural Elements IT"
+ee_20_05;ee_20;"Substructure DE";Substructure;"Substructure ES";"Substructure FR";"Substructure IT"
+ee_20_05_05;ee_20_05;"Substructure Core Fabric DE";"Substructure Core Fabric";"Substructure Core Fabric ES";"Substructure Core Fabric FR";"Substructure Core Fabric IT"
+ee_20_05_40;ee_20_05;"Substructure Coverings DE";"Substructure Coverings";"Substructure Coverings ES";"Substructure Coverings FR";"Substructure Coverings IT"
+ee_20_05_45;ee_20_05;"Substructure Finishes DE";"Substructure Finishes";"Substructure Finishes ES";"Substructure Finishes FR";"Substructure Finishes IT"
+ee_20_05_75;ee_20_05;"Substructure Drainage DE";"Substructure Drainage";"Substructure Drainage ES";"Substructure Drainage FR";"Substructure Drainage IT"
+ee_20_10;ee_20;"Structure DE";Structure;"Structure ES";"Structure FR";"Structure IT"
+ee_20_10_10;ee_20_10;"Structure Core Fabric DE";"Structure Core Fabric";"Structure Core Fabric ES";"Structure Core Fabric FR";"Structure Core Fabric IT"
+ee_20_10_40;ee_20_10;"Structure Coverings DE";"Structure Coverings";"Structure Coverings ES";"Structure Coverings FR";"Structure Coverings IT"
+ee_20_10_45;ee_20_10;"Structure Finishes DE";"Structure Finishes";"Structure Finishes ES";"Structure Finishes FR";"Structure Finishes IT"
+ee_20_10_85;ee_20_10;"Structure Protection DE";"Structure Protection";"Structure Protection ES";"Structure Protection FR";"Structure Protection IT"
+ee_20_95;ee_20;"Temporary Whole-Entity Structures DE";"Temporary Whole-Entity Structures";"Temporary Whole-Entity Structures ES";"Temporary Whole-Entity Structures FR";"Temporary Whole-Entity Structures IT"
+ee_25;ee;"Wall And Barrier Elements DE";"Wall And Barrier Elements";"Wall And Barrier Elements ES";"Wall And Barrier Elements FR";"Wall And Barrier Elements IT"
+ee_25_50;ee_25;"Fixed Traffic And Protective Barriers DE";"Fixed Traffic And Protective Barriers";"Fixed Traffic And Protective Barriers ES";"Fixed Traffic And Protective Barriers FR";"Fixed Traffic And Protective Barriers IT"
+ee_25_50_05;ee_25_50;"Fixed Traffic And Protective Barriers Substructure DE";"Fixed Traffic And Protective Barriers Substructure";"Fixed Traffic And Protective Barriers Substructure ES";"Fixed Traffic And Protective Barriers Substructure FR";"Fixed Traffic And Protective Barriers Substructure IT"
+ee_25_50_10;ee_25_50;"Fixed Traffic And Protective Barriers Structure DE";"Fixed Traffic And Protective Barriers Structure";"Fixed Traffic And Protective Barriers Structure ES";"Fixed Traffic And Protective Barriers Structure FR";"Fixed Traffic And Protective Barriers Structure IT"
+ee_25_50_30;ee_25_50;"Fixed Traffic And Protective Barriers Accessible Openings DE";"Fixed Traffic And Protective Barriers Accessible Openings";"Fixed Traffic And Protective Barriers Accessible Openings ES";"Fixed Traffic And Protective Barriers Accessible Openings FR";"Fixed Traffic And Protective Barriers Accessible Openings IT"
+ee_25_50_35;ee_25_50;"Fixed Traffic And Protective Barriers Non-Accessible Openings DE";"Fixed Traffic And Protective Barriers Non-Accessible Openings";"Fixed Traffic And Protective Barriers Non-Accessible Openings ES";"Fixed Traffic And Protective Barriers Non-Accessible Openings FR";"Fixed Traffic And Protective Barriers Non-Accessible Openings IT"
+ee_25_50_40;ee_25_50;"Fixed Traffic And Protective Barriers Coverings DE";"Fixed Traffic And Protective Barriers Coverings";"Fixed Traffic And Protective Barriers Coverings ES";"Fixed Traffic And Protective Barriers Coverings FR";"Fixed Traffic And Protective Barriers Coverings IT"
+ee_25_50_45;ee_25_50;"Fixed Traffic And Protective Barriers Finishes DE";"Fixed Traffic And Protective Barriers Finishes";"Fixed Traffic And Protective Barriers Finishes ES";"Fixed Traffic And Protective Barriers Finishes FR";"Fixed Traffic And Protective Barriers Finishes IT"
+ee_30;ee;"Roof, Floor And Paving Elements DE";"Roof, Floor And Paving Elements";"Roof, Floor And Paving Elements ES";"Roof, Floor And Paving Elements FR";"Roof, Floor And Paving Elements IT"
+ee_35;ee;"Fixed Access, Tunnel, Shaft, Vessel And Tower Elements DE";"Fixed Access, Tunnel, Shaft, Vessel And Tower Elements";"Fixed Access, Tunnel, Shaft, Vessel And Tower Elements ES";"Fixed Access, Tunnel, Shaft, Vessel And Tower Elements FR";"Fixed Access, Tunnel, Shaft, Vessel And Tower Elements IT"
+ee_40;ee;"Signage And Fittings, Furnishings And Equipment (FFandE) Elements DE";"Signage And Fittings, Furnishings And Equipment (FFandE) Elements";"Signage And Fittings, Furnishings And Equipment (FFandE) Elements ES";"Signage And Fittings, Furnishings And Equipment (FFandE) Elements FR";"Signage And Fittings, Furnishings And Equipment (FFandE) Elements IT"
+ee_45;ee;"Flora And Fauna Elements DE";"Flora And Fauna Elements";"Flora And Fauna Elements ES";"Flora And Fauna Elements FR";"Flora And Fauna Elements IT"
+ee_50;ee;"Disposal Elements DE";"Disposal Elements";"Disposal Elements ES";"Disposal Elements FR";"Disposal Elements IT"
+ee_55;ee;"Piped Supply Elements DE";"Piped Supply Elements";"Piped Supply Elements ES";"Piped Supply Elements FR";"Piped Supply Elements IT"
+ee_60;ee;"Heating, Cooling And Refrigeration Elements DE";"Heating, Cooling And Refrigeration Elements";"Heating, Cooling And Refrigeration Elements ES";"Heating, Cooling And Refrigeration Elements FR";"Heating, Cooling And Refrigeration Elements IT"
+ee_65;ee;"Ventilation And Air Conditioning Elements DE";"Ventilation And Air Conditioning Elements";"Ventilation And Air Conditioning Elements ES";"Ventilation And Air Conditioning Elements FR";"Ventilation And Air Conditioning Elements IT"
+ee_70;ee;"Electrical Elements DE";"Electrical Elements";"Electrical Elements ES";"Electrical Elements FR";"Electrical Elements IT"
+ee_75;ee;"Communications, Security, Safety, Control And Protection Elements DE";"Communications, Security, Safety, Control And Protection Elements";"Communications, Security, Safety, Control And Protection Elements ES";"Communications, Security, Safety, Control And Protection Elements FR";"Communications, Security, Safety, Control And Protection Elements IT"
+ee_80;ee;"Transport Elements DE";"Transport Elements";"Transport Elements ES";"Transport Elements FR";"Transport Elements IT"
+ee_85;ee;"Process Engineering Elements DE";"Process Engineering Elements";"Process Engineering Elements ES";"Process Engineering Elements FR";"Process Engineering Elements IT"
+ee_90;ee;"Soft Facility Management Elements DE";"Soft Facility Management Elements";"Soft Facility Management Elements ES";"Soft Facility Management Elements FR";"Soft Facility Management Elements IT"
+en;uniclass2;"Entities DE";Entities;"Entities ES";"Entities FR";"Entities IT"
+en_20;en;"Administrative, Commercial And Protective Service Entities DE";"Administrative, Commercial And Protective Service Entities";"Administrative, Commercial And Protective Service Entities ES";"Administrative, Commercial And Protective Service Entities FR";"Administrative, Commercial And Protective Service Entities IT"
+en_25;en;"Cultural, Educational, Scientific And Information Entities DE";"Cultural, Educational, Scientific And Information Entities";"Cultural, Educational, Scientific And Information Entities ES";"Cultural, Educational, Scientific And Information Entities FR";"Cultural, Educational, Scientific And Information Entities IT"
+en_30;en;"Industrial Entities DE";"Industrial Entities";"Industrial Entities ES";"Industrial Entities FR";"Industrial Entities IT"
+en_35;en;"Medical, Health, Welfare And Sanitary Entities DE";"Medical, Health, Welfare And Sanitary Entities";"Medical, Health, Welfare And Sanitary Entities ES";"Medical, Health, Welfare And Sanitary Entities FR";"Medical, Health, Welfare And Sanitary Entities IT"
+en_40;en;"Recreational Entities DE";"Recreational Entities";"Recreational Entities ES";"Recreational Entities FR";"Recreational Entities IT"
+en_45;en;"Residential Entities DE";"Residential Entities";"Residential Entities ES";"Residential Entities FR";"Residential Entities IT"
+en_50;en;"Disposal Entities DE";"Disposal Entities";"Disposal Entities ES";"Disposal Entities FR";"Disposal Entities IT"
+en_55;en;"Piped Supply Entities DE";"Piped Supply Entities";"Piped Supply Entities ES";"Piped Supply Entities FR";"Piped Supply Entities IT"
+en_60;en;"Heating, Cooling And Refrigeration Entities DE";"Heating, Cooling And Refrigeration Entities";"Heating, Cooling And Refrigeration Entities ES";"Heating, Cooling And Refrigeration Entities FR";"Heating, Cooling And Refrigeration Entities IT"
+en_65;en;"Ventilation And Air Conditioning Entities DE";"Ventilation And Air Conditioning Entities";"Ventilation And Air Conditioning Entities ES";"Ventilation And Air Conditioning Entities FR";"Ventilation And Air Conditioning Entities IT"
+en_70;en;"Electrical Entities DE";"Electrical Entities";"Electrical Entities ES";"Electrical Entities FR";"Electrical Entities IT"
+en_75;en;"Communications, Security, Safety And Protection Entities DE";"Communications, Security, Safety And Protection Entities";"Communications, Security, Safety And Protection Entities ES";"Communications, Security, Safety And Protection Entities FR";"Communications, Security, Safety And Protection Entities IT"
+en_80;en;"Rail Entities DE";"Rail Entities";"Rail Entities ES";"Rail Entities FR";"Rail Entities IT"
+en_80_10;en_80;"Heavy Rail Entities DE";"Heavy Rail Entities";"Heavy Rail Entities ES";"Heavy Rail Entities FR";"Heavy Rail Entities IT"
+en_80_10_10;en_80_10;"Heavy Rail Buildings DE";"Heavy Rail Buildings";"Heavy Rail Buildings ES";"Heavy Rail Buildings FR";"Heavy Rail Buildings IT"
+en_80_10_12;en_80_10;"Heavy Rail Tunnels DE";"Heavy Rail Tunnels";"Heavy Rail Tunnels ES";"Heavy Rail Tunnels FR";"Heavy Rail Tunnels IT"
+en_80_10_13;en_80_10;"Heavy Rail Bridges DE";"Heavy Rail Bridges";"Heavy Rail Bridges ES";"Heavy Rail Bridges FR";"Heavy Rail Bridges IT"
+en_80_10_14;en_80_10;"Heavy Rail Cuttings DE";"Heavy Rail Cuttings";"Heavy Rail Cuttings ES";"Heavy Rail Cuttings FR";"Heavy Rail Cuttings IT"
+en_80_10_19;en_80_10;"Heavy Railways DE";"Heavy Railways";"Heavy Railways ES";"Heavy Railways FR";"Heavy Railways IT"
+en_80_50;en_80;"Light Rail Entities DE";"Light Rail Entities";"Light Rail Entities ES";"Light Rail Entities FR";"Light Rail Entities IT"
+en_80_50_10;en_80_50;"Light Rail Buildings DE";"Light Rail Buildings";"Light Rail Buildings ES";"Light Rail Buildings FR";"Light Rail Buildings IT"
+en_80_50_12;en_80_50;"Light Rail Tunnels DE";"Light Rail Tunnels";"Light Rail Tunnels ES";"Light Rail Tunnels FR";"Light Rail Tunnels IT"
+en_80_50_13;en_80_50;"Light Rail Bridges DE";"Light Rail Bridges";"Light Rail Bridges ES";"Light Rail Bridges FR";"Light Rail Bridges IT"
+en_80_50_14;en_80_50;"Light Rail Cuttings DE";"Light Rail Cuttings";"Light Rail Cuttings ES";"Light Rail Cuttings FR";"Light Rail Cuttings IT"
+en_80_50_19;en_80_50;"Light Railways DE";"Light Railways";"Light Railways ES";"Light Railways FR";"Light Railways IT"
+en_80_80;en_80;"Rail Loading And Embarkation Entities DE";"Rail Loading And Embarkation Entities";"Rail Loading And Embarkation Entities ES";"Rail Loading And Embarkation Entities FR";"Rail Loading And Embarkation Entities IT"
+en_80_80_10;en_80_80;"Rail Loading Buildings DE";"Rail Loading Buildings";"Rail Loading Buildings ES";"Rail Loading Buildings FR";"Rail Loading Buildings IT"
+en_80_80_50;en_80_80;"Rail Embarkation Buildings DE";"Rail Embarkation Buildings";"Rail Embarkation Buildings ES";"Rail Embarkation Buildings FR";"Rail Embarkation Buildings IT"
+en_80_90;en_80;"Rail Storage And Repair Entities DE";"Rail Storage And Repair Entities";"Rail Storage And Repair Entities ES";"Rail Storage And Repair Entities FR";"Rail Storage And Repair Entities IT"
+en_80_90_10;en_80_90;"Rail Storage Buildings DE";"Rail Storage Buildings";"Rail Storage Buildings ES";"Rail Storage Buildings FR";"Rail Storage Buildings IT"
+en_80_90_50;en_80_90;"Rail Repair Buildings DE";"Rail Repair Buildings";"Rail Repair Buildings ES";"Rail Repair Buildings FR";"Rail Repair Buildings IT"
+en_81;en;"Road Entities DE";"Road Entities";"Road Entities ES";"Road Entities FR";"Road Entities IT"
+en_81_10;en_81;"Major Road Entities DE";"Major Road Entities";"Major Road Entities ES";"Major Road Entities FR";"Major Road Entities IT"
+en_81_10_10;en_81_10;"Major Road Buildings DE";"Major Road Buildings";"Major Road Buildings ES";"Major Road Buildings FR";"Major Road Buildings IT"
+en_81_10_12;en_81_10;"Major Road Tunnels DE";"Major Road Tunnels";"Major Road Tunnels ES";"Major Road Tunnels FR";"Major Road Tunnels IT"
+en_81_10_13;en_81_10;"Major Road Bridges DE";"Major Road Bridges";"Major Road Bridges ES";"Major Road Bridges FR";"Major Road Bridges IT"
+en_81_10_14;en_81_10;"Major Road Cuttings DE";"Major Road Cuttings";"Major Road Cuttings ES";"Major Road Cuttings FR";"Major Road Cuttings IT"
+en_81_10_19;en_81_10;"Major Roadways DE";"Major Roadways";"Major Roadways ES";"Major Roadways FR";"Major Roadways IT"
+en_81_50;en_81;"Minor Road Entities DE";"Minor Road Entities";"Minor Road Entities ES";"Minor Road Entities FR";"Minor Road Entities IT"
+en_81_50_10;en_81_50;"Minor Road Buildings DE";"Minor Road Buildings";"Minor Road Buildings ES";"Minor Road Buildings FR";"Minor Road Buildings IT"
+en_81_50_12;en_81_50;"Minor Road Tunnels DE";"Minor Road Tunnels";"Minor Road Tunnels ES";"Minor Road Tunnels FR";"Minor Road Tunnels IT"
+en_81_50_13;en_81_50;"Minor Road Bridges DE";"Minor Road Bridges";"Minor Road Bridges ES";"Minor Road Bridges FR";"Minor Road Bridges IT"
+en_81_50_14;en_81_50;"Minor Road Cuttings DE";"Minor Road Cuttings";"Minor Road Cuttings ES";"Minor Road Cuttings FR";"Minor Road Cuttings IT"
+en_81_50_19;en_81_50;"Minor Roadways DE";"Minor Roadways";"Minor Roadways ES";"Minor Roadways FR";"Minor Roadways IT"
+en_81_70;en_81;"Path Entities DE";"Path Entities";"Path Entities ES";"Path Entities FR";"Path Entities IT"
+en_81_70_10;en_81_70;"Path Buildings DE";"Path Buildings";"Path Buildings ES";"Path Buildings FR";"Path Buildings IT"
+en_81_70_12;en_81_70;"Path Tunnels DE";"Path Tunnels";"Path Tunnels ES";"Path Tunnels FR";"Path Tunnels IT"
+en_81_70_13;en_81_70;"Path Bridges DE";"Path Bridges";"Path Bridges ES";"Path Bridges FR";"Path Bridges IT"
+en_81_70_14;en_81_70;"Path Cuttings DE";"Path Cuttings";"Path Cuttings ES";"Path Cuttings FR";"Path Cuttings IT"
+en_81_70_19;en_81_70;"Pathways DE";Pathways;"Pathways ES";"Pathways FR";"Pathways IT"
+en_81_80;en_81;"Road Loading And Embarkation Entities DE";"Road Loading And Embarkation Entities";"Road Loading And Embarkation Entities ES";"Road Loading And Embarkation Entities FR";"Road Loading And Embarkation Entities IT"
+en_81_80_10;en_81_80;"Road Loading Buildings DE";"Road Loading Buildings";"Road Loading Buildings ES";"Road Loading Buildings FR";"Road Loading Buildings IT"
+en_81_80_50;en_81_80;"Road Embarkation Buildings DE";"Road Embarkation Buildings";"Road Embarkation Buildings ES";"Road Embarkation Buildings FR";"Road Embarkation Buildings IT"
+en_81_90;en_81;"Road Storage And Repair Entities DE";"Road Storage And Repair Entities";"Road Storage And Repair Entities ES";"Road Storage And Repair Entities FR";"Road Storage And Repair Entities IT"
+en_81_90_10;en_81_90;"Road Storage Buildings DE";"Road Storage Buildings";"Road Storage Buildings ES";"Road Storage Buildings FR";"Road Storage Buildings IT"
+en_81_90_50;en_81_90;"Road Repair Buildings DE";"Road Repair Buildings";"Road Repair Buildings ES";"Road Repair Buildings FR";"Road Repair Buildings IT"
+en_82;en;"Marine And Waterway Entities DE";"Marine And Waterway Entities";"Marine And Waterway Entities ES";"Marine And Waterway Entities FR";"Marine And Waterway Entities IT"
+en_83;en;"Cable Transport Entities DE";"Cable Transport Entities";"Cable Transport Entities ES";"Cable Transport Entities FR";"Cable Transport Entities IT"
+en_84;en;"Aerospace Entities DE";"Aerospace Entities";"Aerospace Entities ES";"Aerospace Entities FR";"Aerospace Entities IT"
+en_85;en;"Process Engineering Entities DE";"Process Engineering Entities";"Process Engineering Entities ES";"Process Engineering Entities FR";"Process Engineering Entities IT"
+en_95;en;"Temporary Entities DE";"Temporary Entities";"Temporary Entities ES";"Temporary Entities FR";"Temporary Entities IT"
+pr;uniclass2;"Products DE";Products;"Products ES";"Products FR";"Products IT"
+pr_15;pr;"Preparatory Products DE";"Preparatory Products";"Preparatory Products ES";"Preparatory Products FR";"Preparatory Products IT"
+pr_15_57;pr_15;"Non-Rigid Sheet, Mat And Strip Preparatory Products DE";"Non-Rigid Sheet, Mat And Strip Preparatory Products";"Non-Rigid Sheet, Mat And Strip Preparatory Products ES";"Non-Rigid Sheet, Mat And Strip Preparatory Products FR";"Non-Rigid Sheet, Mat And Strip Preparatory Products IT"
+pr_15_57_33;pr_15_57;"Geosynthetics DE";Geosynthetics;"Geosynthetics ES";"Geosynthetics FR";"Geosynthetics IT"
+pr_15_57_33_06;pr_15_57_33;"Bentonite Clay Liners DE";"Bentonite Clay Liners";"Bentonite Clay Liners ES";"Bentonite Clay Liners FR";"Bentonite Clay Liners IT"
+pr_15_57_33_07;pr_15_57_33;"Biodegradable Flax Geotextiles DE";"Biodegradable Flax Geotextiles";"Biodegradable Flax Geotextiles ES";"Biodegradable Flax Geotextiles FR";"Biodegradable Flax Geotextiles IT"
+pr_15_57_33_08;pr_15_57_33;"Bituminous Felt Geotextiles DE";"Bituminous Felt Geotextiles";"Bituminous Felt Geotextiles ES";"Bituminous Felt Geotextiles FR";"Bituminous Felt Geotextiles IT"
+pr_15_57_33_09;pr_15_57_33;"Butyl Rubber Geomembranes DE";"Butyl Rubber Geomembranes";"Butyl Rubber Geomembranes ES";"Butyl Rubber Geomembranes FR";"Butyl Rubber Geomembranes IT"
+pr_15_57_33_12;pr_15_57_33;"Chlorinated Polyethylene (PE-C) Geomembranes DE";"Chlorinated Polyethylene (PE-C) Geomembranes";"Chlorinated Polyethylene (PE-C) Geomembranes ES";"Chlorinated Polyethylene (PE-C) Geomembranes FR";"Chlorinated Polyethylene (PE-C) Geomembranes IT"
+pr_15_57_33_13;pr_15_57_33;"Chlorosulfonated Polyethylene (PE-CS) Geomembranes DE";"Chlorosulfonated Polyethylene (PE-CS) Geomembranes";"Chlorosulfonated Polyethylene (PE-CS) Geomembranes ES";"Chlorosulfonated Polyethylene (PE-CS) Geomembranes FR";"Chlorosulfonated Polyethylene (PE-CS) Geomembranes IT"
+pr_15_57_33_27;pr_15_57_33;"Ethylene Propylene Diene Monomer (EPDM) Geomembranes DE";"Ethylene Propylene Diene Monomer (EPDM) Geomembranes";"Ethylene Propylene Diene Monomer (EPDM) Geomembranes ES";"Ethylene Propylene Diene Monomer (EPDM) Geomembranes FR";"Ethylene Propylene Diene Monomer (EPDM) Geomembranes IT"
+pr_15_57_33_30;pr_15_57_33;"Foamed Aminoplastic Resin Moisture Retention Mats DE";"Foamed Aminoplastic Resin Moisture Retention Mats";"Foamed Aminoplastic Resin Moisture Retention Mats ES";"Foamed Aminoplastic Resin Moisture Retention Mats FR";"Foamed Aminoplastic Resin Moisture Retention Mats IT"
+pr_15_57_33_31;pr_15_57_33;"Geocomposite Drainage Sheets DE";"Geocomposite Drainage Sheets";"Geocomposite Drainage Sheets ES";"Geocomposite Drainage Sheets FR";"Geocomposite Drainage Sheets IT"
+pr_15_57_33_32;pr_15_57_33;"Geocomposite Gas Venting Layers DE";"Geocomposite Gas Venting Layers";"Geocomposite Gas Venting Layers ES";"Geocomposite Gas Venting Layers FR";"Geocomposite Gas Venting Layers IT"
+pr_15_57_33_33;pr_15_57_33;"Geocomposite Membranes DE";"Geocomposite Membranes";"Geocomposite Membranes ES";"Geocomposite Membranes FR";"Geocomposite Membranes IT"
+pr_15_57_33_34;pr_15_57_33;"Geocomposite Studded Sheets DE";"Geocomposite Studded Sheets";"Geocomposite Studded Sheets ES";"Geocomposite Studded Sheets FR";"Geocomposite Studded Sheets IT"
+pr_15_57_33_35;pr_15_57_33;"Geomats DE";Geomats;"Geomats ES";"Geomats FR";"Geomats IT"
+pr_15_57_33_36;pr_15_57_33;"Geonets DE";Geonets;"Geonets ES";"Geonets FR";"Geonets IT"
+pr_15_57_33_37;pr_15_57_33;"Geosynthetic Clay Liners (GCLs) DE";"Geosynthetic Clay Liners (GCLs)";"Geosynthetic Clay Liners (GCLs) ES";"Geosynthetic Clay Liners (GCLs) FR";"Geosynthetic Clay Liners (GCLs) IT"
+pr_15_57_33_38;pr_15_57_33;"Glass Fibre Tissue Geotextiles DE";"Glass Fibre Tissue Geotextiles";"Glass Fibre Tissue Geotextiles ES";"Glass Fibre Tissue Geotextiles FR";"Glass Fibre Tissue Geotextiles IT"
+pr_15_57_33_39;pr_15_57_33;"High-Density Polyethylene (PE-HD) Geogrids DE";"High-Density Polyethylene (PE-HD) Geogrids";"High-Density Polyethylene (PE-HD) Geogrids ES";"High-Density Polyethylene (PE-HD) Geogrids FR";"High-Density Polyethylene (PE-HD) Geogrids IT"
+pr_15_57_33_40;pr_15_57_33;"High-Density Polyethylene (PE-HD) Geomembranes DE";"High-Density Polyethylene (PE-HD) Geomembranes";"High-Density Polyethylene (PE-HD) Geomembranes ES";"High-Density Polyethylene (PE-HD) Geomembranes FR";"High-Density Polyethylene (PE-HD) Geomembranes IT"
+pr_15_57_33_44;pr_15_57_33;"Jute Geotextiles DE";"Jute Geotextiles";"Jute Geotextiles ES";"Jute Geotextiles FR";"Jute Geotextiles IT"
+pr_15_57_33_47;pr_15_57_33;"Low-Density Polyethylene (PE-LD) Geomembranes DE";"Low-Density Polyethylene (PE-LD) Geomembranes";"Low-Density Polyethylene (PE-LD) Geomembranes ES";"Low-Density Polyethylene (PE-LD) Geomembranes FR";"Low-Density Polyethylene (PE-LD) Geomembranes IT"
+pr_15_57_33_56;pr_15_57_33;"Needle-Punched Nonwoven Geotextiles DE";"Needle-Punched Nonwoven Geotextiles";"Needle-Punched Nonwoven Geotextiles ES";"Needle-Punched Nonwoven Geotextiles FR";"Needle-Punched Nonwoven Geotextiles IT"
+pr_15_57_33_57;pr_15_57_33;"Plastics Geocellular Drainage Mats DE";"Plastics Geocellular Drainage Mats";"Plastics Geocellular Drainage Mats ES";"Plastics Geocellular Drainage Mats FR";"Plastics Geocellular Drainage Mats IT"
+pr_15_57_33_58;pr_15_57_33;"Polyacrylonitrile (PAN) Water Retention Geotextiles DE";"Polyacrylonitrile (PAN) Water Retention Geotextiles";"Polyacrylonitrile (PAN) Water Retention Geotextiles ES";"Polyacrylonitrile (PAN) Water Retention Geotextiles FR";"Polyacrylonitrile (PAN) Water Retention Geotextiles IT"
+pr_15_57_33_59;pr_15_57_33;"Polyamide Water Retention Geotextiles DE";"Polyamide Water Retention Geotextiles";"Polyamide Water Retention Geotextiles ES";"Polyamide Water Retention Geotextiles FR";"Polyamide Water Retention Geotextiles IT"
+pr_15_57_33_60;pr_15_57_33;"Polyester (PET) Filter Geotextiles DE";"Polyester (PET) Filter Geotextiles";"Polyester (PET) Filter Geotextiles ES";"Polyester (PET) Filter Geotextiles FR";"Polyester (PET) Filter Geotextiles IT"
+pr_15_57_33_61;pr_15_57_33;"Polyester (PET) Geocells DE";"Polyester (PET) Geocells";"Polyester (PET) Geocells ES";"Polyester (PET) Geocells FR";"Polyester (PET) Geocells IT"
+pr_15_57_33_62;pr_15_57_33;"Polyester (PET) Geogrids DE";"Polyester (PET) Geogrids";"Polyester (PET) Geogrids ES";"Polyester (PET) Geogrids FR";"Polyester (PET) Geogrids IT"
+pr_15_57_33_63;pr_15_57_33;"Polyethylene (PE) Filter Geotextiles DE";"Polyethylene (PE) Filter Geotextiles";"Polyethylene (PE) Filter Geotextiles ES";"Polyethylene (PE) Filter Geotextiles FR";"Polyethylene (PE) Filter Geotextiles IT"
+pr_15_57_33_64;pr_15_57_33;"Polyethylene (PE) Geocells DE";"Polyethylene (PE) Geocells";"Polyethylene (PE) Geocells ES";"Polyethylene (PE) Geocells FR";"Polyethylene (PE) Geocells IT"
+pr_15_57_33_65;pr_15_57_33;"Polypropylene (PP) Filter Geotextiles DE";"Polypropylene (PP) Filter Geotextiles";"Polypropylene (PP) Filter Geotextiles ES";"Polypropylene (PP) Filter Geotextiles FR";"Polypropylene (PP) Filter Geotextiles IT"
+pr_15_57_33_66;pr_15_57_33;"Polypropylene (PP) Geocells DE";"Polypropylene (PP) Geocells";"Polypropylene (PP) Geocells ES";"Polypropylene (PP) Geocells FR";"Polypropylene (PP) Geocells IT"
+pr_15_57_33_67;pr_15_57_33;"Polypropylene (PP) Geomembranes DE";"Polypropylene (PP) Geomembranes";"Polypropylene (PP) Geomembranes ES";"Polypropylene (PP) Geomembranes FR";"Polypropylene (PP) Geomembranes IT"
+pr_15_57_33_68;pr_15_57_33;"Polypropylene (PP) Water Retention Geotextiles DE";"Polypropylene (PP) Water Retention Geotextiles";"Polypropylene (PP) Water Retention Geotextiles ES";"Polypropylene (PP) Water Retention Geotextiles FR";"Polypropylene (PP) Water Retention Geotextiles IT"
+pr_15_57_33_69;pr_15_57_33;"Polyvinylidene Fluoride (PVDF) Hydrophilic Geotextiles DE";"Polyvinylidene Fluoride (PVDF) Hydrophilic Geotextiles";"Polyvinylidene Fluoride (PVDF) Hydrophilic Geotextiles ES";"Polyvinylidene Fluoride (PVDF) Hydrophilic Geotextiles FR";"Polyvinylidene Fluoride (PVDF) Hydrophilic Geotextiles IT"
+pr_15_57_33_70;pr_15_57_33;"Polyvinylidene Fluoride (PVDF) Hydrophobic Geomembranes DE";"Polyvinylidene Fluoride (PVDF) Hydrophobic Geomembranes";"Polyvinylidene Fluoride (PVDF) Hydrophobic Geomembranes ES";"Polyvinylidene Fluoride (PVDF) Hydrophobic Geomembranes FR";"Polyvinylidene Fluoride (PVDF) Hydrophobic Geomembranes IT"
+pr_15_57_33_85;pr_15_57_33;"Spun-Bonded Polypropylene (PP) Weed Suppression Membranes DE";"Spun-Bonded Polypropylene (PP) Weed Suppression Membranes";"Spun-Bonded Polypropylene (PP) Weed Suppression Membranes ES";"Spun-Bonded Polypropylene (PP) Weed Suppression Membranes FR";"Spun-Bonded Polypropylene (PP) Weed Suppression Membranes IT"
+pr_15_57_33_88;pr_15_57_33;"Thermally-Bonded Nonwoven Geotextiles DE";"Thermally-Bonded Nonwoven Geotextiles";"Thermally-Bonded Nonwoven Geotextiles ES";"Thermally-Bonded Nonwoven Geotextiles FR";"Thermally-Bonded Nonwoven Geotextiles IT"
+pr_15_57_33_97;pr_15_57_33;"Woven Polypropylene (PP) Weed Suppression Membranes DE";"Woven Polypropylene (PP) Weed Suppression Membranes";"Woven Polypropylene (PP) Weed Suppression Membranes ES";"Woven Polypropylene (PP) Weed Suppression Membranes FR";"Woven Polypropylene (PP) Weed Suppression Membranes IT"
+pr_20;pr;"Structure And General Products DE";"Structure And General Products";"Structure And General Products ES";"Structure And General Products FR";"Structure And General Products IT"
+pr_20_29;pr_20;"Fastener Products DE";"Fastener Products";"Fastener Products ES";"Fastener Products FR";"Fastener Products IT"
+pr_20_29_03;pr_20_29;"Anchors And Components DE";"Anchors And Components";"Anchors And Components ES";"Anchors And Components FR";"Anchors And Components IT"
+pr_20_29_03_04;pr_20_29_03;"Anchor Blocks DE";"Anchor Blocks";"Anchor Blocks ES";"Anchor Blocks FR";"Anchor Blocks IT"
+pr_20_29_03_05;pr_20_29_03;"Anchor Rails DE";"Anchor Rails";"Anchor Rails ES";"Anchor Rails FR";"Anchor Rails IT"
+pr_20_29_03_11;pr_20_29_03;"Carbon Steel Chemical Anchor Rods DE";"Carbon Steel Chemical Anchor Rods";"Carbon Steel Chemical Anchor Rods ES";"Carbon Steel Chemical Anchor Rods FR";"Carbon Steel Chemical Anchor Rods IT"
+pr_20_29_03_12;pr_20_29_03;"Carbon Steel Chemical Anchor Sockets DE";"Carbon Steel Chemical Anchor Sockets";"Carbon Steel Chemical Anchor Sockets ES";"Carbon Steel Chemical Anchor Sockets FR";"Carbon Steel Chemical Anchor Sockets IT"
+pr_20_29_03_13;pr_20_29_03;"Carbon Steel Post Base Plates DE";"Carbon Steel Post Base Plates";"Carbon Steel Post Base Plates ES";"Carbon Steel Post Base Plates FR";"Carbon Steel Post Base Plates IT"
+pr_20_29_03_14;pr_20_29_03;"Carbon Steel Post Spikes DE";"Carbon Steel Post Spikes";"Carbon Steel Post Spikes ES";"Carbon Steel Post Spikes FR";"Carbon Steel Post Spikes IT"
+pr_20_29_03_15;pr_20_29_03;"Cavity Anchors DE";"Cavity Anchors";"Cavity Anchors ES";"Cavity Anchors FR";"Cavity Anchors IT"
+pr_20_29_03_16;pr_20_29_03;"Chemical Anchor Capsules DE";"Chemical Anchor Capsules";"Chemical Anchor Capsules ES";"Chemical Anchor Capsules FR";"Chemical Anchor Capsules IT"
+pr_20_29_03_17;pr_20_29_03;"Chemical Anchor Cartridges DE";"Chemical Anchor Cartridges";"Chemical Anchor Cartridges ES";"Chemical Anchor Cartridges FR";"Chemical Anchor Cartridges IT"
+pr_20_29_03_28;pr_20_29_03;"Expansion Anchors DE";"Expansion Anchors";"Expansion Anchors ES";"Expansion Anchors FR";"Expansion Anchors IT"
+pr_20_29_03_31;pr_20_29_03;"Framing Anchors DE";"Framing Anchors";"Framing Anchors ES";"Framing Anchors FR";"Framing Anchors IT"
+pr_20_29_03_32;pr_20_29_03;"Framing Fasteners DE";"Framing Fasteners";"Framing Fasteners ES";"Framing Fasteners FR";"Framing Fasteners IT"
+pr_20_29_03_33;pr_20_29_03;"Ground Anchor Heads DE";"Ground Anchor Heads";"Ground Anchor Heads ES";"Ground Anchor Heads FR";"Ground Anchor Heads IT"
+pr_20_29_03_34;pr_20_29_03;"Ground Plate Anchors DE";"Ground Plate Anchors";"Ground Plate Anchors ES";"Ground Plate Anchors FR";"Ground Plate Anchors IT"
+pr_20_29_03_35;pr_20_29_03;"Grouted Ground Anchors DE";"Grouted Ground Anchors";"Grouted Ground Anchors ES";"Grouted Ground Anchors FR";"Grouted Ground Anchors IT"
+pr_20_29_03_36;pr_20_29_03;"Hammer-In Fasteners DE";"Hammer-In Fasteners";"Hammer-In Fasteners ES";"Hammer-In Fasteners FR";"Hammer-In Fasteners IT"
+pr_20_29_03_44;pr_20_29_03;"J-Pins DE";J-Pins;"J-Pins ES";"J-Pins FR";"J-Pins IT"
+pr_20_29_03_66;pr_20_29_03;"Prestressing Anchors DE";"Prestressing Anchors";"Prestressing Anchors ES";"Prestressing Anchors FR";"Prestressing Anchors IT"
+pr_20_29_03_72;pr_20_29_03;"Rock Bolts DE";"Rock Bolts";"Rock Bolts ES";"Rock Bolts FR";"Rock Bolts IT"
+pr_20_29_03_73;pr_20_29_03;"Rock Anchors DE";"Rock Anchors";"Rock Anchors ES";"Rock Anchors FR";"Rock Anchors IT"
+pr_20_29_03_79;pr_20_29_03;"Socket Anchors DE";"Socket Anchors";"Socket Anchors ES";"Socket Anchors FR";"Socket Anchors IT"
+pr_20_29_03_80;pr_20_29_03;"Solar Module Roof Anchors DE";"Solar Module Roof Anchors";"Solar Module Roof Anchors ES";"Solar Module Roof Anchors FR";"Solar Module Roof Anchors IT"
+pr_20_29_03_81;pr_20_29_03;"Sprayed Concrete Anchor Studs DE";"Sprayed Concrete Anchor Studs";"Sprayed Concrete Anchor Studs ES";"Sprayed Concrete Anchor Studs FR";"Sprayed Concrete Anchor Studs IT"
+pr_20_29_03_82;pr_20_29_03;"Sprayed Concrete Ties DE";"Sprayed Concrete Ties";"Sprayed Concrete Ties ES";"Sprayed Concrete Ties FR";"Sprayed Concrete Ties IT"
+pr_20_29_03_83;pr_20_29_03;"Stainless Steel Chemical Anchor Rods DE";"Stainless Steel Chemical Anchor Rods";"Stainless Steel Chemical Anchor Rods ES";"Stainless Steel Chemical Anchor Rods FR";"Stainless Steel Chemical Anchor Rods IT"
+pr_20_29_03_84;pr_20_29_03;"Stainless Steel Chemical Anchor Sockets DE";"Stainless Steel Chemical Anchor Sockets";"Stainless Steel Chemical Anchor Sockets ES";"Stainless Steel Chemical Anchor Sockets FR";"Stainless Steel Chemical Anchor Sockets IT"
+pr_20_29_03_85;pr_20_29_03;"Stainless Steel Glass Block Panel Anchors DE";"Stainless Steel Glass Block Panel Anchors";"Stainless Steel Glass Block Panel Anchors ES";"Stainless Steel Glass Block Panel Anchors FR";"Stainless Steel Glass Block Panel Anchors IT"
+pr_20_29_03_86;pr_20_29_03;"Structural Anchors DE";"Structural Anchors";"Structural Anchors ES";"Structural Anchors FR";"Structural Anchors IT"
+pr_20_29_03_88;pr_20_29_03;"Threaded Anchors DE";"Threaded Anchors";"Threaded Anchors ES";"Threaded Anchors FR";"Threaded Anchors IT"
+pr_20_29_03_92;pr_20_29_03;"Undercut Anchors DE";"Undercut Anchors";"Undercut Anchors ES";"Undercut Anchors FR";"Undercut Anchors IT"
+pr_20_29_03_97;pr_20_29_03;"Wedge Anchors DE";"Wedge Anchors";"Wedge Anchors ES";"Wedge Anchors FR";"Wedge Anchors IT"
+pr_20_29_81;pr_20_29;"Soil Nails DE";"Soil Nails";"Soil Nails ES";"Soil Nails FR";"Soil Nails IT"
+pr_20_29_81_11;pr_20_29_81;"Carbon Steel Soil Nails DE";"Carbon Steel Soil Nails";"Carbon Steel Soil Nails ES";"Carbon Steel Soil Nails FR";"Carbon Steel Soil Nails IT"
+pr_20_29_81_63;pr_20_29_81;"Plastics Soil Nails DE";"Plastics Soil Nails";"Plastics Soil Nails ES";"Plastics Soil Nails FR";"Plastics Soil Nails IT"
+pr_20_29_81_84;pr_20_29_81;"Stainless Steel Soil Nails DE";"Stainless Steel Soil Nails";"Stainless Steel Soil Nails ES";"Stainless Steel Soil Nails FR";"Stainless Steel Soil Nails IT"
+pr_20_85;pr_20;"Support And Restraint Products DE";"Support And Restraint Products";"Support And Restraint Products ES";"Support And Restraint Products FR";"Support And Restraint Products IT"
+pr_20_85_28;pr_20_85;"Erosion Control And Breakwater Products DE";"Erosion Control And Breakwater Products";"Erosion Control And Breakwater Products ES";"Erosion Control And Breakwater Products FR";"Erosion Control And Breakwater Products IT"
+pr_20_85_28_09;pr_20_85_28;"Brushwood Fascines DE";"Brushwood Fascines";"Brushwood Fascines ES";"Brushwood Fascines FR";"Brushwood Fascines IT"
+pr_20_85_28_11;pr_20_85_28;"Carbon Steel Wire Bastion Cages DE";"Carbon Steel Wire Bastion Cages";"Carbon Steel Wire Bastion Cages ES";"Carbon Steel Wire Bastion Cages FR";"Carbon Steel Wire Bastion Cages IT"
+pr_20_85_28_12;pr_20_85_28;"Carbon Steel Wire Mattress Cages DE";"Carbon Steel Wire Mattress Cages";"Carbon Steel Wire Mattress Cages ES";"Carbon Steel Wire Mattress Cages FR";"Carbon Steel Wire Mattress Cages IT"
+pr_20_85_28_13;pr_20_85_28;"Carbon Steel Wire Trapion Cages DE";"Carbon Steel Wire Trapion Cages";"Carbon Steel Wire Trapion Cages ES";"Carbon Steel Wire Trapion Cages FR";"Carbon Steel Wire Trapion Cages IT"
+pr_20_85_28_14;pr_20_85_28;"Carbon Steel Wire Gabion Cages DE";"Carbon Steel Wire Gabion Cages";"Carbon Steel Wire Gabion Cages ES";"Carbon Steel Wire Gabion Cages FR";"Carbon Steel Wire Gabion Cages IT"
+pr_20_85_28_15;pr_20_85_28;"Coir Erosion Mats DE";"Coir Erosion Mats";"Coir Erosion Mats ES";"Coir Erosion Mats FR";"Coir Erosion Mats IT"
+pr_20_85_28_16;pr_20_85_28;"Concrete Tetrapods DE";"Concrete Tetrapods";"Concrete Tetrapods ES";"Concrete Tetrapods FR";"Concrete Tetrapods IT"
+pr_20_85_28_27;pr_20_85_28;"Erosion Control Logs DE";"Erosion Control Logs";"Erosion Control Logs ES";"Erosion Control Logs FR";"Erosion Control Logs IT"
+pr_20_85_28_28;pr_20_85_28;"Erosion Control Pallets DE";"Erosion Control Pallets";"Erosion Control Pallets ES";"Erosion Control Pallets FR";"Erosion Control Pallets IT"
+pr_20_85_28_62;pr_20_85_28;"Plastics Mattress Cages DE";"Plastics Mattress Cages";"Plastics Mattress Cages ES";"Plastics Mattress Cages FR";"Plastics Mattress Cages IT"
+pr_20_85_28_64;pr_20_85_28;"Polypropylene (PP) Rock Rolls DE";"Polypropylene (PP) Rock Rolls";"Polypropylene (PP) Rock Rolls ES";"Polypropylene (PP) Rock Rolls FR";"Polypropylene (PP) Rock Rolls IT"
+pr_30;pr;"Opening Products DE";"Opening Products";"Opening Products ES";"Opening Products FR";"Opening Products IT"
+pr_35;pr;"Covering And Finish Products DE";"Covering And Finish Products";"Covering And Finish Products ES";"Covering And Finish Products FR";"Covering And Finish Products IT"
+pr_40;pr;"Signage And Fittings, Furnishings And Equipment (FFandE) Products DE";"Signage And Fittings, Furnishings And Equipment (FFandE) Products";"Signage And Fittings, Furnishings And Equipment (FFandE) Products ES";"Signage And Fittings, Furnishings And Equipment (FFandE) Products FR";"Signage And Fittings, Furnishings And Equipment (FFandE) Products IT"
+pr_45;pr;"Flora And Fauna Products DE";"Flora And Fauna Products";"Flora And Fauna Products ES";"Flora And Fauna Products FR";"Flora And Fauna Products IT"
+pr_50;pr;"Fabric Accessory Products DE";"Fabric Accessory Products";"Fabric Accessory Products ES";"Fabric Accessory Products FR";"Fabric Accessory Products IT"
+pr_60;pr;"Services Source Products DE";"Services Source Products";"Services Source Products ES";"Services Source Products FR";"Services Source Products IT"
+pr_65;pr;"Services Distribution Products DE";"Services Distribution Products";"Services Distribution Products ES";"Services Distribution Products FR";"Services Distribution Products IT"
+pr_70;pr;"Services Outlet Products DE";"Services Outlet Products";"Services Outlet Products ES";"Services Outlet Products FR";"Services Outlet Products IT"
+pr_75;pr;"Services Control Products DE";"Services Control Products";"Services Control Products ES";"Services Control Products FR";"Services Control Products IT"
+pr_80;pr;"Services Accessory Products DE";"Services Accessory Products";"Services Accessory Products ES";"Services Accessory Products FR";"Services Accessory Products IT"
+pr_85;pr;"Process Engineering Products DE";"Process Engineering Products";"Process Engineering Products ES";"Process Engineering Products FR";"Process Engineering Products IT"
+pr_90;pr;"Soft Facility Management Products DE";"Soft Facility Management Products";"Soft Facility Management Products ES";"Soft Facility Management Products FR";"Soft Facility Management Products IT"
+ss;uniclass2;"Systems DE";Systems;"Systems ES";"Systems FR";"Systems IT"
+ss_15;ss;"Preparatory Systems DE";"Preparatory Systems";"Preparatory Systems ES";"Preparatory Systems FR";"Preparatory Systems IT"
+ss_15_10;ss_15;"Preparation Systems DE";"Preparation Systems";"Preparation Systems ES";"Preparation Systems FR";"Preparation Systems IT"
+ss_15_10_35;ss_15_10;"Ground Stabilization Systems DE";"Ground Stabilization Systems";"Ground Stabilization Systems ES";"Ground Stabilization Systems FR";"Ground Stabilization Systems IT"
+ss_15_10_70;ss_15_10;"Rock Stabilization Systems DE";"Rock Stabilization Systems";"Rock Stabilization Systems ES";"Rock Stabilization Systems FR";"Rock Stabilization Systems IT"
+ss_15_10_80;ss_15_10;"Soil Nailing Systems DE";"Soil Nailing Systems";"Soil Nailing Systems ES";"Soil Nailing Systems FR";"Soil Nailing Systems IT"
+ss_15_10_80_80;ss_15_10_80;"Soil Nailing Systems DE";"Soil Nailing Systems";"Soil Nailing Systems ES";"Soil Nailing Systems FR";"Soil Nailing Systems IT"
+ss_20;ss;"Whole-Entity Structural Systems DE";"Whole-Entity Structural Systems";"Whole-Entity Structural Systems ES";"Whole-Entity Structural Systems FR";"Whole-Entity Structural Systems IT"
+ss_25;ss;"Wall And Barrier Systems DE";"Wall And Barrier Systems";"Wall And Barrier Systems ES";"Wall And Barrier Systems FR";"Wall And Barrier Systems IT"
+ss_25_16;ss_25;"Fixed Traffic And Protective Barrier Systems DE";"Fixed Traffic And Protective Barrier Systems";"Fixed Traffic And Protective Barrier Systems ES";"Fixed Traffic And Protective Barrier Systems FR";"Fixed Traffic And Protective Barrier Systems IT"
+ss_25_16_04;ss_25_16;"Artificial Reef Systems DE";"Artificial Reef Systems";"Artificial Reef Systems ES";"Artificial Reef Systems FR";"Artificial Reef Systems IT"
+ss_25_16_05;ss_25_16;"Avalanche And Snow Barrier Systems DE";"Avalanche And Snow Barrier Systems";"Avalanche And Snow Barrier Systems ES";"Avalanche And Snow Barrier Systems FR";"Avalanche And Snow Barrier Systems IT"
+ss_25_16_10;ss_25_16;"Breakwater Systems DE";"Breakwater Systems";"Breakwater Systems ES";"Breakwater Systems FR";"Breakwater Systems IT"
+ss_25_16_15;ss_25_16;"Coastal And River Revetment Systems DE";"Coastal And River Revetment Systems";"Coastal And River Revetment Systems ES";"Coastal And River Revetment Systems FR";"Coastal And River Revetment Systems IT"
+ss_25_16_21;ss_25_16;"Debris Flow Barrier Systems DE";"Debris Flow Barrier Systems";"Debris Flow Barrier Systems ES";"Debris Flow Barrier Systems FR";"Debris Flow Barrier Systems IT"
+ss_25_16_30;ss_25_16;"Fish Barrier Systems DE";"Fish Barrier Systems";"Fish Barrier Systems ES";"Fish Barrier Systems FR";"Fish Barrier Systems IT"
+ss_25_16_33;ss_25_16;"Flood Barrier Systems DE";"Flood Barrier Systems";"Flood Barrier Systems ES";"Flood Barrier Systems FR";"Flood Barrier Systems IT"
+ss_25_16_35;ss_25_16;"Groyne Systems DE";"Groyne Systems";"Groyne Systems ES";"Groyne Systems FR";"Groyne Systems IT"
+ss_25_16_40;ss_25_16;"Industrial Barrier Systems DE";"Industrial Barrier Systems";"Industrial Barrier Systems ES";"Industrial Barrier Systems FR";"Industrial Barrier Systems IT"
+ss_25_16_45;ss_25_16;"Jet Blast Barrier Systems DE";"Jet Blast Barrier Systems";"Jet Blast Barrier Systems ES";"Jet Blast Barrier Systems FR";"Jet Blast Barrier Systems IT"
+ss_25_16_46;ss_25_16;"Landslide Barrier Systems DE";"Landslide Barrier Systems";"Landslide Barrier Systems ES";"Landslide Barrier Systems FR";"Landslide Barrier Systems IT"
+ss_25_16_70;ss_25_16;"Rail Barrier Systems DE";"Rail Barrier Systems";"Rail Barrier Systems ES";"Rail Barrier Systems FR";"Rail Barrier Systems IT"
+ss_25_16_73;ss_25_16;"Road Barrier Systems DE";"Road Barrier Systems";"Road Barrier Systems ES";"Road Barrier Systems FR";"Road Barrier Systems IT"
+ss_25_16_75;ss_25_16;"Rock Armour Systems DE";"Rock Armour Systems";"Rock Armour Systems ES";"Rock Armour Systems FR";"Rock Armour Systems IT"
+ss_25_16_76;ss_25_16;"Rockfall Barrier Systems DE";"Rockfall Barrier Systems";"Rockfall Barrier Systems ES";"Rockfall Barrier Systems FR";"Rockfall Barrier Systems IT"
+ss_25_16_80;ss_25_16;"Sea Wall Systems DE";"Sea Wall Systems";"Sea Wall Systems ES";"Sea Wall Systems FR";"Sea Wall Systems IT"
+ss_25_16_85;ss_25_16;"Traffic Barrier Systems DE";"Traffic Barrier Systems";"Traffic Barrier Systems ES";"Traffic Barrier Systems FR";"Traffic Barrier Systems IT"
+ss_25_16_90;ss_25_16;"Water Barrier Systems DE";"Water Barrier Systems";"Water Barrier Systems ES";"Water Barrier Systems FR";"Water Barrier Systems IT"
+ss_25_16_95;ss_25_16;"Weir Systems DE";"Weir Systems";"Weir Systems ES";"Weir Systems FR";"Weir Systems IT"
+ss_25_40;ss_25;"External Wall Covering And Finish Systems DE";"External Wall Covering And Finish Systems";"External Wall Covering And Finish Systems ES";"External Wall Covering And Finish Systems FR";"External Wall Covering And Finish Systems IT"
+ss_25_40_50;ss_25_40;"Metal Lathing And Anchored Mesh Reinforcement Systems DE";"Metal Lathing And Anchored Mesh Reinforcement Systems";"Metal Lathing And Anchored Mesh Reinforcement Systems ES";"Metal Lathing And Anchored Mesh Reinforcement Systems FR";"Metal Lathing And Anchored Mesh Reinforcement Systems IT"
+ss_25_40_50_05;ss_25_40_50;"Anchored Mesh Reinforcement Systems DE";"Anchored Mesh Reinforcement Systems";"Anchored Mesh Reinforcement Systems ES";"Anchored Mesh Reinforcement Systems FR";"Anchored Mesh Reinforcement Systems IT"
+ss_25_40_50_50;ss_25_40_50;"Metal Lathing Casing Systems DE";"Metal Lathing Casing Systems";"Metal Lathing Casing Systems ES";"Metal Lathing Casing Systems FR";"Metal Lathing Casing Systems IT"
+ss_25_40_50_51;ss_25_40_50;"Metal Lathing On Framing Systems DE";"Metal Lathing On Framing Systems";"Metal Lathing On Framing Systems ES";"Metal Lathing On Framing Systems FR";"Metal Lathing On Framing Systems IT"
+ss_25_40_50_52;ss_25_40_50;"Metal Lathing On Hangers, Bearers And Runners Systems DE";"Metal Lathing On Hangers, Bearers And Runners Systems";"Metal Lathing On Hangers, Bearers And Runners Systems ES";"Metal Lathing On Hangers, Bearers And Runners Systems FR";"Metal Lathing On Hangers, Bearers And Runners Systems IT"
+ss_25_40_50_53;ss_25_40_50;"Metal Lathing On Solid Substrate Systems DE";"Metal Lathing On Solid Substrate Systems";"Metal Lathing On Solid Substrate Systems ES";"Metal Lathing On Solid Substrate Systems FR";"Metal Lathing On Solid Substrate Systems IT"
+ss_30;ss;"Roof, Floor And Paving Systems DE";"Roof, Floor And Paving Systems";"Roof, Floor And Paving Systems ES";"Roof, Floor And Paving Systems FR";"Roof, Floor And Paving Systems IT"
+ss_35;ss;"Fixed Access, Tunnel, Shaft, Vessel And Tower Systems DE";"Fixed Access, Tunnel, Shaft, Vessel And Tower Systems";"Fixed Access, Tunnel, Shaft, Vessel And Tower Systems ES";"Fixed Access, Tunnel, Shaft, Vessel And Tower Systems FR";"Fixed Access, Tunnel, Shaft, Vessel And Tower Systems IT"
+ss_40;ss;"Signage, Fittings, Furnishings And Equipment (FFandE), And General Finishing Systems DE";"Signage, Fittings, Furnishings And Equipment (FFandE), And General Finishing Systems";"Signage, Fittings, Furnishings And Equipment (FFandE), And General Finishing Systems ES";"Signage, Fittings, Furnishings And Equipment (FFandE), And General Finishing Systems FR";"Signage, Fittings, Furnishings And Equipment (FFandE), And General Finishing Systems IT"
+ss_45;ss;"Flora And Fauna Systems DE";"Flora And Fauna Systems";"Flora And Fauna Systems ES";"Flora And Fauna Systems FR";"Flora And Fauna Systems IT"
+ss_50;ss;"Disposal Systems DE";"Disposal Systems";"Disposal Systems ES";"Disposal Systems FR";"Disposal Systems IT"
+ss_55;ss;"Piped Supply Systems DE";"Piped Supply Systems";"Piped Supply Systems ES";"Piped Supply Systems FR";"Piped Supply Systems IT"
+ss_60;ss;"Heating, Cooling And Refrigeration Systems DE";"Heating, Cooling And Refrigeration Systems";"Heating, Cooling And Refrigeration Systems ES";"Heating, Cooling And Refrigeration Systems FR";"Heating, Cooling And Refrigeration Systems IT"
+ss_65;ss;"Ventilation And Air Conditioning Systems DE";"Ventilation And Air Conditioning Systems";"Ventilation And Air Conditioning Systems ES";"Ventilation And Air Conditioning Systems FR";"Ventilation And Air Conditioning Systems IT"
+ss_70;ss;"Electrical Systems DE";"Electrical Systems";"Electrical Systems ES";"Electrical Systems FR";"Electrical Systems IT"
+ss_75;ss;"Communications, Security, Safety, Control And Protection Systems DE";"Communications, Security, Safety, Control And Protection Systems";"Communications, Security, Safety, Control And Protection Systems ES";"Communications, Security, Safety, Control And Protection Systems FR";"Communications, Security, Safety, Control And Protection Systems IT"
+ss_80;ss;"Transport Systems DE";"Transport Systems";"Transport Systems ES";"Transport Systems FR";"Transport Systems IT"
+ss_85;ss;"Process Engineering Systems DE";"Process Engineering Systems";"Process Engineering Systems ES";"Process Engineering Systems FR";"Process Engineering Systems IT"
+ss_90;ss;"Soft Facility Management Systems DE";"Soft Facility Management Systems";"Soft Facility Management Systems ES";"Soft Facility Management Systems FR";"Soft Facility Management Systems IT"
