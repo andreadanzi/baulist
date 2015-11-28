@@ -6,7 +6,7 @@
       {{> product}}
     {{/each}}
   </ul>
-  {{> moreItems}}
+  {{> moreProdItems}}
   {{/if}}
 </template>
 
@@ -21,9 +21,9 @@
   </li>
 </template>
 
-<template name="moreItems">
-  {{#if moreResults}}
-  <div id="showMoreResults" style="margin-left: 25px;">
+<template name="moreProdItems">
+  {{#if moreProdResults}}
+  <div id="showMoreProdResults" style="margin-left: 25px;">
     <span class="loading">Loading...</span>
   </div>
   {{/if}}

@@ -21,13 +21,11 @@ Meteor.startup(function () {
 
 
 function processCategoryChildren(parent){
-  console.log("processCategoryChildren for " + parent);
   var local_children = [];
   var cur = Categories.find({parent:parent});
   cur.forEach(function(cat){
     local_children.push(cat._id);
     var sub_children = processCategoryChildren(cat._id);
-    console.log("processCategoryChildren for " + cat._id + " children length "+ sub_children.length);
     Categories.update(cat._id, {
       $addToSet: { children: { $each: sub_children } }
     });

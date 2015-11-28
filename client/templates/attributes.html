@@ -5,6 +5,7 @@
       {{> attribute}}
     {{/each}}
   </ul>
+  {{> moreAttrItems}}
   {{/if}}
 </template>
 
@@ -18,4 +19,12 @@
 
     <span class="text" title="{{label_en_US}}">{{title}}</span>
   </li>
+</template>
+
+<template name="moreAttrItems">
+  {{#if moreAttrResults}}
+  <div id="showMoreAttrResults" style="margin-left: 25px;">
+    <span class="loading">Loading...</span>
+  </div>
+  {{/if}}
 </template>

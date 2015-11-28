@@ -32,13 +32,31 @@ attributes : function() {
             }
 });
 
-Template.moreItems.helpers({
-moreResults : function() {
+Template.moreProdItems.helpers({
+moreProdResults : function() {
                 // If, once the subscription is ready, we have less rows than we
                 // asked for, we've got all the rows in the collection.
-                return !(Products.find().count() < Session.get("itemsLimit"));
+                return !(Products.find().count() < Session.get("prodItemsLimit"));
               }
 });
+
+
+Template.moreCatItems.helpers({
+moreCatResults : function() {
+                // If, once the subscription is ready, we have less rows than we
+                // asked for, we've got all the rows in the collection.
+                return !(Categories.find().count() < Session.get("catItemsLimit"));
+              }
+});
+
+Template.moreAttrItems.helpers({
+moreAttrResults : function() {
+                // If, once the subscription is ready, we have less rows than we
+                // asked for, we've got all the rows in the collection.
+                return !(Attributes.find().count() < Session.get("attrItemsLimit"));
+              }
+});
+
 
 Template.searchbox.helpers({
 settings: function() {

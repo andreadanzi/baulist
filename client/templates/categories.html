@@ -9,6 +9,7 @@
           {{> category}}
         {{/each}}
     </ul>
+    {{> moreCatItems}}
     <!-- {{/if}} -->
   {{/if}}
 </template>
@@ -50,4 +51,13 @@
 
     <span class="text" title="{{label_en_US}}">{{title}}</span>
   </li>
+</template>
+
+
+<template name="moreCatItems">
+  {{#if moreCatResults}}
+  <div id="showMoreCatResults" style="margin-left: 25px;">
+    <span class="loading">Loading...</span>
+  </div>
+  {{/if}}
 </template>
