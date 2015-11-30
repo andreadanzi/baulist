@@ -57,6 +57,20 @@ moreAttrResults : function() {
               }
 });
 
+Template.import.helpers({
+userCanImport : function(){
+  currentUserID = Meteor.userId();
+  if (! currentUserID ) {
+    return false;
+  }
+  baulistUser = Meteor.users.findOne({username:"baulist"});
+  if( baulistUser._id !== currentUserID ) {
+      return false;
+  }
+  return true;
+}
+
+});
 
 Template.searchbox.helpers({
 settings: function() {

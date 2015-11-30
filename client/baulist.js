@@ -4,12 +4,18 @@ Session.setDefault('catItemsLimit', ITEMS_INCREMENT);
 Session.setDefault('attrItemsLimit', ITEMS_INCREMENT);
 Session.setDefault('txtSearch', '');
 Session.setDefault('txtAttrSearch', '');
+Session.setDefault('txtAttrValue', null);
 Session.setDefault('txtCatSearch', '');
 Session.setDefault('filetype', 'prod');
 Deps.autorun(function() {
   Meteor.subscribe('product_items', Session.get('prodItemsLimit'), Session.get('txtSearch'));
   Meteor.subscribe('category_items', Session.get('catItemsLimit'), Session.get('txtCatSearch'));
-  Meteor.subscribe('attribute_items', Session.get('attrItemsLimit'), Session.get('txtAttrSearch'));
+  Meteor.subscribe('attribute_items', Session.get('attrItemsLimit'), Session.get('txtAttrSearch'), Session.get('txtAttrValue'));
+});
+
+
+Accounts.ui.config({
+  passwordSignupFields: "USERNAME_ONLY"
 });
 
 // whenever #showMoreResults becomes visible, retrieve more results

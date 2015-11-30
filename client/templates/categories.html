@@ -2,7 +2,6 @@
 
 <template name="cat_tree">
   {{#if categoriesVisible 'cat'}}
-    <h2>Categories</h2>
     <!-- {{#if categoriesExist}} -->
     <ul id="cat_tree">
         {{#each categories}}
@@ -43,8 +42,6 @@
 
 <template name="category">
   <li class="{{#if checked}}checked{{/if}}">
-    <button class="delete">&times;</button>
-
     <input type="checkbox" checked="{{checked}}" class="toggle-checked" />
     <input class="category_id"  id="cid_{{_id}}" type="hidden" value="{{_id}}" />
     <input class="category_parent"  id="cparent_{{parent}}" type="hidden" value="{{parent}}" />

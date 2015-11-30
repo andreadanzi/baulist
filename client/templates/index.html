@@ -4,14 +4,22 @@
 
 <body>
   <div class="container">
-    <header>
-      <h1>Products</h1>{{> import}}
-      <form class="search-product">
-       {{> searchbox}}
-      </form>
-    </header>
-    {{> cat_tree}}
-    {{> attributes_loop}}
-    {{> loop}}
+    <div class="main">
+      <header>
+        <div class="site-branding logo-container">
+          <h1 class="main-logo">Balusist</h1>
+          <div class="login-box">
+            {{> loginButtons}}
+          </div>
+        </div>
+        {{> import}}
+        {{> searchbox}}
+      </header>
+      <div class="loops">
+      {{> cat_tree}}
+      {{> attributes_loop}}
+      {{> loop}}
+      </div>
+    </div>
   </div>
 </body>

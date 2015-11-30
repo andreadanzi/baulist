@@ -1,8 +1,8 @@
 <template name="import">
-        <select id="filetype">
-          <option value="prod">Products</option>
-          <option value="cat">Categories</option>
-          <option value="attr">Attributes</option>
-        </select>
+        <input type="radio" name="collectionName" value="prod" checked="checked">Products
+        <input type="radio" name="collectionName" value="cat">Categories
+        <input type="radio" name="collectionName" value="attr">Attributes
+        {{#if userCanImport}}
         <input type="file" id="csvchoosefile" placeholder="Type to add a file" />
+        {{/if}}
 </template>

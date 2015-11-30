@@ -17,7 +17,25 @@ Meteor.startup(function () {
   if (Categories.find().count() > 0) {
     checkCategories();
   }
+  if ( Meteor.users.find().count() === 0 ) {
+    Accounts.createUser({
+      username: 'baulist',
+      password: 'balustit',
+      profile: {
+          first_name: 'Baulist',
+          last_name: 'Administrator',
+          company: 'baulist.com',
+      }
+    });
+  } else {
+    baulistUser = Meteor.users.findOne({username:"baulist"});
+    if(baulistUser) {
+      console.log("startup:" + baulistUser.username + " found with id " + baulistUser._id );
+    }
+  }
 });
+
+
 
 
 function processCategoryChildren(parent){
@@ -34,9 +52,8 @@ function processCategoryChildren(parent){
 }
 
 function checkCategories(){
-  console.log("checkCategories");
   var cur = Categories.find();
   cur.forEach(function(cat){
-    console.log("cat._id = " + cat.title);
+    // console.log("cat._id = " + cat.title);
   });
 }
